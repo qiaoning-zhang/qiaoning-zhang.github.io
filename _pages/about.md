@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Assistant Professor, Human Systems Engineering, The Polytechnic School, Arizona State University
 
 profile:
   align: right
