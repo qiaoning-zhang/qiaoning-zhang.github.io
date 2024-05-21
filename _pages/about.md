@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor
+subtitle: Incoming Assistant Professor
 
 profile:
   align: right
@@ -18,8 +18,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am an incoming Assistant Professor of [Human Systems Engineering](https://poly.engineering.asu.edu/hse/) in the [Polytechnic School](https://poly.engineering.asu.edu/), [Ira A. Fulton Schools of Engineering](https://engineering.asu.edu/) at [Arizona State University](https://www.asu.edu/). I received my Ph.D. in Information from the [University of Michigan](https://umich.edu/). My research focuses on how social contexts influence our interactions with cutting-edge technologies such as AI, robots, and automated vehicles. I aim to create a future where technology is not just smart but also empathetic. Specifically, my research interests include human-AI collaboration and learning, human-robot interaction, human factors in automated vehicles, and user experience design. I am actively looking for Ph.D. students and undergraduate/master researchers. See more information here.
