@@ -19,3 +19,5 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am an incoming Assistant Professor of [Human Systems Engineering](https://poly.engineering.asu.edu/hse/) in the [Polytechnic School](https://poly.engineering.asu.edu/), [Ira A. Fulton Schools of Engineering](https://engineering.asu.edu/) at [Arizona State University](https://www.asu.edu/). I received my Ph.D. in Information from the [University of Michigan](https://umich.edu/). My research focuses on how social contexts influence our interactions with cutting-edge technologies such as `AI`, `robots`, and `automated vehicles`. I aim to create a future where technology is not just smart but also empathetic. Specifically, my research interests include `Human-AI Collaboration and Learning`, `Human-Robot Interaction`, `Human Factors in Automated Vehicles`, and `User Experience (UX) Design`. I am actively looking for Ph.D. students and undergraduate/master researchers. See more information here.
+
+***Let us shape a world where technology complements our abilities, rather than complicates them!***
