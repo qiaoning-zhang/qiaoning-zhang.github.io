@@ -15,7 +15,7 @@ nav_order: 4
 ***
 ## Presentations & Invited Talks
 #### Bridging Humans and Technology: Human-Centered Design for Trust and Collaborative Futures
-##### - Arizona State University, April 2024
+  - ** Arizona State University, April 2024 **
   - University of Michigan Transportation Research Institute, February 2024
   - University of Houston, February 2024 <br />
  
