@@ -15,5 +15,5 @@ nav_order: 4
 ***
 ### Invited Talks & Presentations
 - Bridging Humans and Technology: Human-Centered Design for Trust and Collaborative Futures
-  - 
+  - Arizona State University, Tempe, AZ, January 2024
 
