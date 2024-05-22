@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: page
 permalink: /people/
 title: Join Us
 description: 
