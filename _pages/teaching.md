@@ -13,7 +13,18 @@ nav_order: 4
 - SI 501: Contextual Inquiry and Consulting Foundations, University of Michigan, Fall 2019
 
 ***
-### Invited Talks & Presentations
+### Presentations & Invited Talks
 - Bridging Humans and Technology: Human-Centered Design for Trust and Collaborative Futures
-  - Arizona State University, Tempe, AZ, January 2024
+  - Arizona State University, April 2024
+  - University of Michigan Transportation Research Institute, February 2024
+  - University of Houston, February 2024
+ 
+- You Complete Me: Human-AI Teams and Complementary Expertise
+  - Toyota Research Institute, August 2021
+  - The ACM CHI Conference on Human Factors in Computing Systems (CHI 2023), May 2022
+ 
+- An Automated Vehicle (AV) like Me? The Impact of Personality Similarities and Differences between Humans and AVs 
+  - Proceedings of the Fall 2019 AAAI Symposium, November 2019
+
+
 
