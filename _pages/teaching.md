@@ -12,5 +12,6 @@ nav_order: 4
 - SI 622: Needs Assessment and Usability Evaluation, University of Michigan
 - SI 501: Contextual Inquiry and Consulting Foundations, University of Michigan
 
+***
 ### Invited Talks & Presentations
 - 
