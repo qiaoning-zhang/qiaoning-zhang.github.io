@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 4
 ---
-#### Courses
+### Courses
 - **Graduate Student Instructor**
   - *SI 582: Introduction to Interaction Design, University of Michigan, Fall 2022 & 2021*
   - *SI 618: Data Manipulation and Analysis, University of Michigan, Winter 2021*
@@ -14,7 +14,7 @@ nav_order: 4
   - *SI 501: Contextual Inquiry and Consulting Foundations, University of Michigan, Fall 2019*
 
 
-#### Presentations & Invited Talks
+### Presentations & Invited Talks
 - **Bridging Humans and Technology: Human-Centered Design for Trust and Collaborative Futures**
   - *Arizona State University, April 2024*
   - *University of Michigan Transportation Research Institute, February 2024*
