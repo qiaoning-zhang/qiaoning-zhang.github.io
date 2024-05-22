@@ -8,11 +8,11 @@ nav_order: 5
 ---
 
 ### Program Committee
-- **Associate Chair**
-  - *International ACM Conference on Automotive User Interfaces (AutomotiveUI 2024)*
+**Associate Chair**
+- *International ACM Conference on Automotive User Interfaces (AutomotiveUI 2024)*
 
 ***
-### Presentations & Invited Talks
+### Reviewer
 - **Bridging Humans and Technology: Human-Centered Design for Trust and Collaborative Futures**
   - *Arizona State University, April 2024*
   - *University of Michigan Transportation Research Institute, February 2024*
