@@ -12,7 +12,7 @@ nav_order: 4
 #### SI 622: Needs Assessment and Usability Evaluation, University of Michigan, Winter 2020
 #### SI 501: Contextual Inquiry and Consulting Foundations, University of Michigan, Fall 2019
 
-***
+
 ## Presentations & Invited Talks
 #### Bridging Humans and Technology: Human-Centered Design for Trust and Collaborative Futures
 *Arizona State University, April 2024*
