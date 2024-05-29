@@ -30,9 +30,8 @@ To answer these research questions, we began by compiling a comprehensive list o
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Kano model of customer satisfaction.
 </div>
 
-This survey reached 253 senior citizens in the United States. By applying the Kano model, we were able to organize healthcare robot features into categories and assess how each influenced user satisfaction or dissatisfaction. For instance, we found that features mimicking animal appearances arecategorized as `reverse' features, indicating that such features should be left out of robot designs. Moreover, our analysis revealed distinct preferences among participants with varying knowledge and attitudes toward robots.
-
+This survey reached 253 older adults in the United States. By applying the Kano model, we were able to organize healthcare robot features into categories and assess how each influenced user satisfaction or dissatisfaction. For instance, we found that features mimicking animal appearances are categorized as reverse features, indicating that such features should be left out of robot designs. Moreover, our analysis revealed distinct preferences among participants with varying knowledge and attitudes toward robots.
 
