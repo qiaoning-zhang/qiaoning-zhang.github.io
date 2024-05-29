@@ -15,10 +15,14 @@ Healthcare robots at home are becoming increasingly essential for promoting the 
 To answer these research questions, we began by compiling a comprehensive list of healthcare robot features from the existing literature. Next, we crafted a survey grounded in the Kano model. The Kano model classifies user preferences into five categories, shedding light on how features influence user satisfaction and, ultimately, acceptance. These categories are:
 - **Must-be** features: Features customers expect and are taken for granted. Their presence does not lead to customer satisfaction, but their absence leads to dissatisfaction.
     - Example: brakes on a car.
-- **One-dimensional** features: Features that result in satisfaction when fulfilled and dissatisfaction when not fulfilled. E.g., fuel efficiency in a car.
-- **Attractive** features: Features that lead to satisfaction when present but do not cause dissatisfaction when absent. E.g., built-in massage chair in a car.
-- **Indifferent** features: Features that have minimal impact on user satisfaction, offering little benefit or drawback. E.g., the color of a screw used in a car.
-- **Reverse** features: Features that cause dissatisfaction when included in a product. E.g., a very complicated user manual in a car.
+- **One-dimensional** features: Features that result in satisfaction when fulfilled and dissatisfaction when not fulfilled.
+    - Example: fuel efficiency in a car.
+- **Attractive** features: Features that lead to satisfaction when present but do not cause dissatisfaction when absent.
+    - Example: built-in massage chair in a car.
+- **Indifferent** features: Features that have minimal impact on user satisfaction, offering little benefit or drawback.
+    - Example: the color of a screw used in a car.
+- **Reverse** features: Features that cause dissatisfaction when included in a product.
+    - Example: a very complicated user manual in a car.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
