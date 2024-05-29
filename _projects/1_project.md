@@ -35,3 +35,5 @@ To answer these research questions, we began by compiling a comprehensive list o
 
 This survey reached 253 older adults in the United States. By applying the Kano model, we were able to organize healthcare robot features into categories and assess how each influenced user satisfaction or dissatisfaction. For instance, we found that features mimicking animal appearances are categorized as reverse features, indicating that such features should be left out of robot designs. Moreover, our analysis revealed distinct preferences among participants with varying knowledge and attitudes toward robots.
 
+#### Publication 
+- **Zhang, Q.**, Zhou, F., Robert Jr, L. P., & Yang, X. J. (2024, March). Designing Healthcare Robots at Home for Older Adults: A Kano Model Perspective. In Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction (pp. 1183-1187).
