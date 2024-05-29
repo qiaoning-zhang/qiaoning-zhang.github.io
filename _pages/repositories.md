@@ -9,7 +9,7 @@ nav_order: 5
 
 ### Professional Program Service
 **Associate Chair**<br />
-2024 &nbsp;&nbsp;&nbsp;&nbsp; International ACM Conference on Automotive User Interfaces (AutomotiveUI 2024)
+2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; International ACM Conference on Automotive User Interfaces (AutomotiveUI 2024)
 
 ***
 ### Reviewer
