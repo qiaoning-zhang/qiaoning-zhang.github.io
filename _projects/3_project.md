@@ -14,13 +14,16 @@ When it comes to automated vehicles (AVs), there are serious concerns about whet
 - How does the modality of explanations influence their effectiveness?
 <br />
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0" style="width:50%;">
-        {% include figure.liquid loading="eager" path="assets/img/kano1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/expla1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/expla2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Kano model of customer satisfaction.
+    You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
 Our findings revealed that explanations provided before an AV acted were associated with higher trust in and preference for the AV. Additionally, the modality of explanations and the driver's age significantly moderated the relationship between explanation effectiveness and AV perceptions. These results have important implications for the adoption of AVs. To emphasize the importance of explanations in the context of AVs, I also synthesized a comprehensive literature survey paper, hoping to offer a holistic perspective on explanations and contribute to the advancement of the field. 
