@@ -25,8 +25,8 @@ To answer these research questions, we began by compiling a comprehensive list o
     - Example: a very complicated user manual in a car.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/kano1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/kano1.png" title="Kano Model" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
