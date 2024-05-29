@@ -2,7 +2,7 @@
 layout: page
 title: Expectation and Trust in Automated Vehicles
 description:
-img:
+img: assets/img/expla1.png
 importance: 4
 category: work
 ---
