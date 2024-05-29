@@ -2,7 +2,7 @@
 layout: page
 title: Healthcare Robots at Home for Older Adults
 description:
-img: assets/img/kano1.jpg
+img: assets/img/kano1.png
 importance: 1
 category: work
 related_publications: false
