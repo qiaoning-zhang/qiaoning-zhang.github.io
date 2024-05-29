@@ -2,7 +2,7 @@
 layout: page
 title: Human-AI Teams and Complementary Expertise
 description: 
-img: assets/img/3.jpg
+img: assets/img/aibot1.png
 importance: 2
 category: work
 giscus_comments: true
