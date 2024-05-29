@@ -22,7 +22,7 @@ Fall 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SI 501: Context
  <br />
  
 **You Complete Me: Human-AI Teams and Complementary Expertise** <br />
-2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Toyota Research Institute
+2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Toyota Research Institute<br />
 2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The ACM CHI Conference on Human Factors in Computing Systems (CHI 2022)
  <br />
  
