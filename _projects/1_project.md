@@ -5,7 +5,7 @@ description:
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Healthcare robots at home are increasingly essential for promoting the independence of older adults, yet their widespread acceptance is hindered by a lack of clarity regarding optimal design features. To address this, this research study employs the Kano model to systematically identify and prioritize the features of healthcare robots that most significantly influence user satisfaction and acceptance among older adults. We conducted a survey study with 253 U.S. older adults to evaluate a variety of robot features. The results highlight design features that markedly affect user satisfaction and acceptance. ‘Medication Management’ and ‘Managing Illness and Monitoring Health’ are identified as one-dimensional features, whereas ‘Animal-like Appearance’ is a less favored reverse feature, potentially diminishing satisfaction. ‘Housework’ along with seven other features, is recognized as attractive, with sixteen features deemed indifferent.
