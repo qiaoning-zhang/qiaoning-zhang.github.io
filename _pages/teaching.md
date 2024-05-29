@@ -9,9 +9,9 @@ nav_order: 3
 ### Courses
 **Graduate Student Instructor** <br />
 Fall 2022 & 2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SI 582: Introduction to Interaction Design, University of Michigan
-SI 618: Data Manipulation and Analysis, University of Michigan, Winter 2021
-SI 622: Needs Assessment and Usability Evaluation, University of Michigan, Winter 2020
-SI 501: Contextual Inquiry and Consulting Foundations, University of Michigan, Fall 2019
+Winter 2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SI 618: Data Manipulation and Analysis, University of Michigan
+Winter 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SI 622: Needs Assessment and Usability Evaluation, University of Michigan
+Fall 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SI 501: Contextual Inquiry and Consulting Foundations, University of Michigan
 
 ***
 ### Presentations & Invited Talks
