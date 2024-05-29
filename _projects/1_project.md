@@ -19,16 +19,13 @@ To answer these research questions, we began by compiling a comprehensive list o
 - **Indifferent** features: Features that have minimal impact on user satisfaction, offering little benefit or drawback. E.g., the color of a screw used in a car.
 - **Reverse** features: Features that cause dissatisfaction when included in a product. E.g., a very complicated user manual in a car.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/kano1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/kano2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/kano1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    This image can also have a caption. It's like magic.
 </div>
 
 This survey reached 253 senior citizens in the United States. By applying the Kano model, we were able to organize healthcare robot features into categories and assess how each influenced user satisfaction or dissatisfaction. For instance, we found that features mimicking animal appearances arecategorized as `reverse' features, indicating that such features should be left out of robot designs. Moreover, our analysis revealed distinct preferences among participants with varying knowledge and attitudes toward robots.
