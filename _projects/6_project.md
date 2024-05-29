@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Automation Reliability and Dual-task Performance
-description: a project with no image
-img:
+description: 
+img: assets/img/1.jpg
 importance: 6
 category: work
 ---
