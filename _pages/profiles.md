@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /people/
+permalink: /joinus/
 title: Join Us
 description: 
 nav: true
