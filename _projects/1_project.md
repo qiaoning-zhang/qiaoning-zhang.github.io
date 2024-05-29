@@ -8,12 +8,13 @@ category: work
 related_publications: false
 ---
 
-Healthcare robots at home are increasingly essential for promoting the independence of older adults, yet their widespread acceptance is hindered by a lack of clarity regarding optimal design features. This research sets out to deepen our understanding of the features present in healthcare robots tailored for the elderly. Central to our investigation are two research questions: 
-- How do older adults organize and prioritize their needs and preferences concerning the current features of healthcare robots?
+Healthcare robots at home are becoming increasingly essential for promoting the independence of older adults. However, their widespread acceptance is often hindered by unclear optimal design features. This research aims to deepen our understanding of the features that are most beneficial for healthcare robots tailored for the elderly. Our investigation focuses on two primary research questions:
+- How do older adults organize and prioritize their needs and preferences regarding the current features of healthcare robots?
 - Whether and how an individual's knowledge about robot technology and their attitudes towards robots influence the feature preferences of older adults?
 
-To answer these research questions, we began by compiling a comprehensive list of healthcare robot features from the existing literature. Next, we crafted a survey grounded in the Kano model. The Kano model classifies user preferences into five categories, and it sheds light on how features influence user satisfaction and, ultimately, acceptance. These categories are:
-- **Must-be** features: Features customers expect and are taken for granted. Their presence does not lead to customer satisfaction, but their absence leads to dissatisfaction. E.g., brakes on a car.
+To answer these research questions, we began by compiling a comprehensive list of healthcare robot features from the existing literature. Next, we crafted a survey grounded in the Kano model. The Kano model classifies user preferences into five categories, shedding light on how features influence user satisfaction and, ultimately, acceptance. These categories are:
+- **Must-be** features: Features customers expect and are taken for granted. Their presence does not lead to customer satisfaction, but their absence leads to dissatisfaction.
+    - Example: brakes on a car.
 - **One-dimensional** features: Features that result in satisfaction when fulfilled and dissatisfaction when not fulfilled. E.g., fuel efficiency in a car.
 - **Attractive** features: Features that lead to satisfaction when present but do not cause dissatisfaction when absent. E.g., built-in massage chair in a car.
 - **Indifferent** features: Features that have minimal impact on user satisfaction, offering little benefit or drawback. E.g., the color of a screw used in a car.
