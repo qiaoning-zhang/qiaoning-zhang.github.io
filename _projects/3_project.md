@@ -2,7 +2,7 @@
 layout: page
 title: Explanation and Trust in Automated Vehicles
 description:
-img: assets/img/kano1.png
+img: assets/img/expla1.png
 importance: 3
 category: work
 related_publications: false
@@ -16,10 +16,10 @@ When it comes to automated vehicles (AVs), there are serious concerns about whet
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/expla1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/expla1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/expla2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/expla2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
