@@ -14,7 +14,7 @@ I encourage strong and self-motivated candidates to apply, especially those with
 - Knowledge and Skills in applied data science and programming
 - An interdisciplinary research background (e.g., design, computer science, cognitive science)
 
-If you are interested in joining my team, please apply to the Ph.D. program and select my name from the faculty member list during your application. Additionally, email me with the subject "Prospective PhD Student" and include:
+If you are interested in joining my team, please apply to the [ASU Human Systems Engineering Ph.D. program](https://poly.engineering.asu.edu/hse/phd/) and select my name from the faculty member list during your application. Additionally, email me with the subject "Prospective PhD Student" and include:
 - Your CV
 - A brief description of your background and research interests
 - Representative publications or writing samples (if available)
