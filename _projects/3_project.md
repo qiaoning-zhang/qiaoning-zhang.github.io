@@ -8,21 +8,11 @@ category: work
 related_publications: false
 ---
 
-Healthcare robots at home are becoming increasingly essential for promoting the independence of older adults. However, their widespread acceptance is often hindered by unclear optimal design features. This research aims to deepen our understanding of the features that are most beneficial for healthcare robots tailored for the elderly. Our investigation focuses on two primary research questions:
-- How do older adults organize and prioritize their needs and preferences regarding the current features of healthcare robots?
-- Whether and how an individual's knowledge about robot technology and their attitudes towards robots influence the feature preferences of older adults?
-
-To answer these research questions, we began by compiling a comprehensive list of healthcare robot features from the existing literature. Next, we crafted a survey grounded in the Kano model. The Kano model classifies user preferences into five categories, shedding light on how features influence user satisfaction and, ultimately, acceptance. These categories are:
-- **Must-be** features: Features customers expect and are taken for granted. Their presence does not lead to customer satisfaction, but their absence leads to dissatisfaction.
-    - Example: brakes on a car.
-- **One-dimensional** features: Features that result in satisfaction when fulfilled and dissatisfaction when not fulfilled.
-    - Example: fuel efficiency in a car.
-- **Attractive** features: Features that lead to satisfaction when present but do not cause dissatisfaction when absent.
-    - Example: built-in massage chair in a car.
-- **Indifferent** features: Features that have minimal impact on user satisfaction, offering little benefit or drawback.
-    - Example: the color of a screw used in a car.
-- **Reverse** features: Features that cause dissatisfaction when included in a product.
-    - Example: a very complicated user manual in a car.
+When it comes to automated vehicles (AVs), there are serious concerns about whether individuals will choose to employ them. One of the most central concerns is the lack of trust in AVs. In this project, we explored the possibility of using explanations of vehicle actions to help drivers build trust in automated vehicles. We conducted human-subject experiments in a driving simulator to investigate three research questions:
+- How do the timing and the degree of AV autonomy influence the effectiveness of AV explanations?
+- Does the driver’s age influence the relationship between AV explanations and the driver’s effort, anxiety, and trust?
+- How does the modality of explanations influence their effectiveness?
+<br />
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0" style="width:50%;">
@@ -33,5 +23,4 @@ To answer these research questions, we began by compiling a comprehensive list o
     Kano model of customer satisfaction.
 </div>
 
-This survey reached 253 older adults in the United States. By applying the Kano model, we were able to organize healthcare robot features into categories and assess how each influenced user satisfaction or dissatisfaction. For instance, we found that features mimicking animal appearances are categorized as reverse features, indicating that such features should be left out of robot designs. Moreover, our analysis revealed distinct preferences among participants with varying knowledge and attitudes toward robots.
-
+Our findings revealed that explanations provided before an AV acted were associated with higher trust in and preference for the AV. Additionally, the modality of explanations and the driver's age significantly moderated the relationship between explanation effectiveness and AV perceptions. These results have important implications for the adoption of AVs. To emphasize the importance of explanations in the context of AVs, I also synthesized a comprehensive literature survey paper, hoping to offer a holistic perspective on explanations and contribute to the advancement of the field. 
