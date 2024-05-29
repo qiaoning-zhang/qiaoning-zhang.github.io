@@ -13,7 +13,7 @@ nav_order: 5
 
 ***
 ### Reviewer
-**Journal Reviewer**
+**Journal Reviewer**<br />
 2024 &nbsp;&nbsp;&nbsp;&nbsp; International ACM Conference on Automotive User Interfaces (AutomotiveUI 2024)
 <br />
 2024 &nbsp;&nbsp;&nbsp;&nbsp; International ACM Conference on Automotive User Interfaces (AutomotiveUI 2024)
