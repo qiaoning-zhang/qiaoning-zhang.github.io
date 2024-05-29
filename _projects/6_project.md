@@ -2,7 +2,7 @@
 layout: page
 title: Automation Reliability and Dual-task Performance
 description: 
-img: assets/img/1.jpg
+img: assets/img/trust1.jpg
 importance: 6
 category: work
 ---
