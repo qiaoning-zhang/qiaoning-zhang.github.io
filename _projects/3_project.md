@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Healthcare Robots at Home for Older Adults
+title: Explanation and Trust in Automated Vehicles
 description:
 img: assets/img/kano1.png
 importance: 3
