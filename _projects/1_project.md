@@ -2,7 +2,7 @@
 layout: page
 title: Healthcare Robots at Home for Older Adults
 description:
-img: assets/img/kano1.png
+img: assets/img/kano3.png
 importance: 1
 category: work
 related_publications: false
@@ -25,8 +25,8 @@ To answer these research questions, we began by compiling a comprehensive list o
     - Example: a very complicated user manual in a car.
 
 <div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/kano1.png" title="Kano Model" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-2 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/kano3.png" title="Kano Model" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
