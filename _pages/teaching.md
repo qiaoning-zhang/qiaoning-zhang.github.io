@@ -16,27 +16,27 @@ Fall 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SI 501: Context
 ***
 ### Presentations & Invited Talks
 **Bridging Humans and Technology: Human-Centered Design for Trust and Collaborative Futures** <br />
-Arizona State University, April 2024*
-University of Michigan Transportation Research Institute, February 2024*
-University of Houston, February 2024* <br />
+2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arizona State University<br />
+2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Michigan Transportation Research Institute<br />
+2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Houston<br />
  <br />
  
-- **You Complete Me: Human-AI Teams and Complementary Expertise**
-  - *Toyota Research Institute, August 2021*
-  - *The ACM CHI Conference on Human Factors in Computing Systems (CHI 2022), May 2022*<br />
+**You Complete Me: Human-AI Teams and Complementary Expertise** <br />
+2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Toyota Research Institute
+2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The ACM CHI Conference on Human Factors in Computing Systems (CHI 2022)
  <br />
  
-- **Finding the Right Voice: Exploring the Impact of Gender Similarity and Gender-Role Congruity on the Efficacy of Automated Vehicle Explanations**
-  - *The Artificial Intelligence (AI) for Human-Robot Interaction (HRI) Symposium, November 2023*<br />
+**Finding the Right Voice: Exploring the Impact of Gender Similarity and Gender-Role Congruity on the Efficacy of Automated Vehicle Explanations**<br />
+2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Artificial Intelligence (AI) for Human-Robot Interaction (HRI) Symposium<br />
 <br />
 
-- **From the Head or the Heart? Exploring the Impact of Explanation on Cognitive and Affective Trust in Automated Vehicles**
-  - *The Human-Computer Interaction Consortium, June 2022*
-  - *The Artificial Intelligence (AI) for Human-Robot Interaction (HRI) Symposium, November 2021*<br />
+**From the Head or the Heart? Exploring the Impact of Explanation on Cognitive and Affective Trust in Automated Vehicles**<br />
+2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Human-Computer Interaction Consortium<br />
+2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Artificial Intelligence (AI) for Human-Robot Interaction (HRI) Symposium<br />
  <br />
- 
-- **An Automated Vehicle (AV) like Me? The Impact of Personality Similarities and Differences between Humans and AVs**
-  - *The Artificial Intelligence (AI) for Human-Robot Interaction (HRI) Symposium, November 2019*<br />
+
+**An Automated Vehicle (AV) like Me? The Impact of Personality Similarities and Differences between Humans and AVs**<br />
+2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Artificial Intelligence (AI) for Human-Robot Interaction (HRI) Symposium, November 2019<br />
 
 
 
