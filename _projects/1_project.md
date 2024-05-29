@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Designing Healthcare Robots at Home for Older Adults
+title: Healthcare Robots at Home for Older Adults
 description:
 img: assets/img/kano1.jpg
 importance: 1
