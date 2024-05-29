@@ -20,4 +20,7 @@ If you are interested in joining my team, please apply to the Ph.D. program and 
 - Representative publications or writing samples (if available)
 - The names and contact information of at least two references for your application (if available)
 
+### Undergraduate and Master's Students
+I am also excited to work with undergraduate and master's students who are interested in my research areas. Opportunities are available for students with backgrounds or interests in human-computer interaction, intelligent transportation systems, applied data science, machine learning, or UX research/design. While funding is possible, it is not guaranteed. Typically, research assistantships are offered to students who have worked with me on a research project for at least one semester.<br />
+If you wish to work with me, please email me with the subject "Prospective Undergraduate/Master's Student" and include:
 
