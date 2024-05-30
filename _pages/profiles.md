@@ -33,5 +33,5 @@ If you wish to work with me, please email me with the subject "Prospective Under
 For any inquiries or to express your interest in joining my research team, please contact me via email. Due to the high volume of inquiries, I may not be able to respond to every email, but I will reach out if there is a potential fit.<br />
 <br />
 <br />
-**Join me in shaping the future of empathetic technology!**
+**Join us in shaping the future of empathetic technology!**
 
