@@ -18,7 +18,7 @@ When it comes to automated vehicles (AVs), there are serious concerns about whet
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/expla1.png" title="Driving simulator" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6 mt-4 mt-md-0">
+    <div class="col-sm-6 mt-5 mt-md-0">
         {% include figure.liquid path="assets/img/expla2.png" title="Driving simulator" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
