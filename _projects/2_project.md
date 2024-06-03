@@ -5,7 +5,7 @@ description:
 img: assets/img/aibot1.png
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 People use AI systems for all sorts of recommendations, from identifying tumors in medical images to choosing the right shoes for an outfit. A key part of this process is how skilled they believe the AI is. This research looks into how people trust and rely on an AI assistant that has different levels of expertise compared to the user, from having the same skills to having completely different skills that complement the user's abilities.
