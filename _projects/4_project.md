@@ -9,7 +9,7 @@ category: work
 
 This research explores the factors influencing user expectations and trust in Automated Vehicles (AVs), both of which are pivotal to the acceptance and adoption of these transformative technologies. AVs have the potential to revolutionize transportation by enhancing safety, efficiency, and convenience, generating widespread interest. However, persistent apprehensions around AV safety, performance, and reliability create barriers to their widespread acceptance and utilization. This suggests a discrepancy between the theoretical advantages of AVs and public perceptions. To address this discrepancy and accelerate AV adoption, this research undertakes a comprehensive investigation into the factors shaping public perceptions, with a specific focus on the formation of expectations and trust. This study revolves around two core research questions: 
 
-- What individual factors shapepeople’s expectations of AVs?
+- What individual factors shape people’s expectations of AVs?
 - How do these expectations impact their trust in AVs?
 
 <div class="row">
