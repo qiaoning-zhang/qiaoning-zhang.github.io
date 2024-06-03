@@ -25,7 +25,7 @@ To explore these questions, we conducted a series of online lab studies. In the 
     </div>
 </div>
 <div class="caption">
-    Dual-task environment in the simulation testbed.
+The shape identification task and task interface for study 1. Participants first guessed the object's category (a), were shown the AI's guess (b), and then made their final decision. Participants then saw a feedback screen indicating the correctness of their decision, the AI's guess, as well as bonus points awarded for the task, if applicable (c and d).
 </div>
 
 In the second study, we added natural language explanations to see how different ways of phrasing (using inclusive or distancing language) affected trust, reliance, and performance. The results showed that inclusive language made people agree more with the AI, while distancing language made them agree less. This suggests that how the AI communicates can subtly guide people to rely on it appropriately based on whether its recommendations are correct or not.
@@ -39,7 +39,7 @@ In the second study, we added natural language explanations to see how different
     </div>
 </div>
 <div class="caption">
-    Dual-task environment in the simulation testbed.
+    The task interface shown to participants, including the AI's recommendation and explanation, in Study 2.
 </div>
 
 This research sheds light on how people trust and rely on AI systems with different expertise levels and how the language used in AI explanations can impact this relationship. The findings provide important insights for designing AI assistants that communicate their expertise effectively and build the right level of trust and reliance, improving human-AI collaboration and decision-making in various fields.
