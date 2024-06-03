@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Explanation and Trust in Automated Vehicles
+title: Explanation & Trust in Automated Vehicles
 description:
 img: assets/img/expla1.png
 importance: 3
