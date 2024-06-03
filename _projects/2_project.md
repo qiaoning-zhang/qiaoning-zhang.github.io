@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Human-AI Teams and Complementary Expertise
+title: Human-AI Teams & Complementary Expertise
 description: 
 img: assets/img/aibot1.png
 importance: 2
