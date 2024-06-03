@@ -2,7 +2,7 @@
 layout: page
 title: Expectation and Trust in Automated Vehicles
 description:
-img: assets/img/expla1.png
+img: assets/img/expectation2.png
 importance: 4
 category: work
 ---
@@ -14,7 +14,7 @@ This research explores the factors influencing user expectations and trust in Au
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/expectation1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -25,10 +25,10 @@ Results from this research highlight two major findings. First, individual chara
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/expla1.png" title="Driving simulator" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/expectation2.png" title="Driving simulator" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-5 mt-md-0">
-        {% include figure.liquid path="assets/img/expla2.png" title="Driving simulator" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/expectation3.png" title="Driving simulator" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
