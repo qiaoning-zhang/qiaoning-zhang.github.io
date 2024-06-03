@@ -37,5 +37,6 @@ Results from this research highlight two major findings. First, individual chara
 
 This research embarks on a profound exploration of expectations and trust, offering critical insights that will shape the future development and implementation of AVs. It explores the complex dynamics of expectation and trust formation, essential for user acceptance and adoption of AVs. By illuminating these components, this research helps navigate the complexities and potentials of AVs, paving the way for an imminent paradigm shift in transportation.
 
-
+#### Publication 
+- Du, N., **Zhang, Q.**, & Yang, X. J. (2018, September). Evaluating effects of automation reliability and reliability information on trust, dependence and dual-task performance. In Proceedings of the Human Factors and Ergonomics Society Annual Meeting (Vol. 62, No. 1, pp. 174-174). Sage CA: Los Angeles, CA: SAGE Publications.
 
