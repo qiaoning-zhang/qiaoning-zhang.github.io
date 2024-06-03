@@ -2,7 +2,7 @@
 layout: page
 title: Automation Reliability and Dual-task Performance
 description: 
-img: assets/img/trust1.jpg
+img: assets/img/trust1.png
 importance: 6
 category: work
 ---
@@ -25,7 +25,7 @@ To examine this research question, we designed and conducted an experiment in th
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/trust3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/trust3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
