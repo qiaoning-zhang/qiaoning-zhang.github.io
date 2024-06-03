@@ -13,7 +13,7 @@ profile:
     <p><span style="font-size:0.8em;">7271 E Sonoran Arroyo Mall</span></p>
     <p><span style="font-size:0.8em;">Mesa, AZ 85212</span></p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
