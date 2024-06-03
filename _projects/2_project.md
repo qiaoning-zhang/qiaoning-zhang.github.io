@@ -16,9 +16,34 @@ This project focuses on two main questions:
 
 To explore these questions, we conducted a series of online lab studies. In the first study, participants completed a shape identification task with the help of an AI assistant that had varying levels of complementary expertise. The results showed that participants could tell when the AI was an expert or not and relied on it more as its complementary expertise increased, leading to better performance. However, their trust in the AI didn't always match this trend, indicating a need for the AI to better communicate its expertise to build the right level of trust.
 
-
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ai1.png" title="Tracking task" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-5 mt-md-0">
+        {% include figure.liquid path="assets/img/ai2.png" title="Detection task" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Dual-task environment in the simulation testbed.
+</div>
 
 In the second study, we added natural language explanations to see how different ways of phrasing (using inclusive or distancing language) affected trust, reliance, and performance. The results showed that inclusive language made people agree more with the AI, while distancing language made them agree less. This suggests that how the AI communicates can subtly guide people to rely on it appropriately based on whether its recommendations are correct or not.
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ai3.png" title="Tracking task" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-5 mt-md-0">
+        {% include figure.liquid path="assets/img/ai4.png" title="Detection task" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Dual-task environment in the simulation testbed.
+</div>
+
 This research sheds light on how people trust and rely on AI systems with different expertise levels and how the language used in AI explanations can impact this relationship. The findings provide important insights for designing AI assistants that communicate their expertise effectively and build the right level of trust and reliance, improving human-AI collaboration and decision-making in various fields.
+
+#### Publication
+- **Zhang, Q.,** Lee, M. L., & Carter, S. (2022, April). You complete me: Human-ai teams and complementary expertise. In Proceedings of the 2022 CHI conference on human factors in computing systems (pp. 1-28).
 
