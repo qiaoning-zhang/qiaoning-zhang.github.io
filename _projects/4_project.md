@@ -12,16 +12,18 @@ This research explores the factors influencing user expectations and trust in Au
 - What individual factors shape people’s expectations of AVs?
 - How do these expectations impact their trust in AVs?
 
+An online survey was used to collect data including expectation, perceived performance, and trust in AVs from 443 participants which represent U.S. driver population.  Participants were presented with: 1) sunny weather and normal driving behavior; 2) sunny weather and aggressive driving behavior; 3) snowy weather and normal driving behavior; 4) snowy weather and aggressive driving behavior.  
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/expectation1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Video screenshots of four conditions。 
 </div>
-
-Results from this research highlight two major findings. First, individual characteristics, including demographic factors such as age, gender, and ethnicity, along with personality traits (e.g., extraversion, agreeableness, conscientiousness), significantly shape people's preconceived expectations of AVs. Second, expectations significantly influence the level of trust in AVs, affected by the disconfirmation effect.
+<br />
+Using the polynomial regression and response surface methodology, results from this research highlight two major findings. First, individual characteristics, including demographic factors such as age, gender, and ethnicity, along with personality traits (e.g., extraversion, agreeableness, conscientiousness), significantly shape people's preconceived expectations of AVs. Second, expectations significantly influence the level of trust in AVs, affected by the disconfirmation effect.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
@@ -32,9 +34,9 @@ Results from this research highlight two major findings. First, individual chara
     </div>
 </div>
 <div class="caption">
-    Driving simulator.
+    Response surface analysis for disconfirmation predicting trust in AVs.
 </div>
-
+<br />
 This research embarks on a profound exploration of expectations and trust, offering critical insights that will shape the future development and implementation of AVs. It explores the complex dynamics of expectation and trust formation, essential for user acceptance and adoption of AVs. By illuminating these components, this research helps navigate the complexities and potentials of AVs, paving the way for an imminent paradigm shift in transportation.
 
 #### Publication 
