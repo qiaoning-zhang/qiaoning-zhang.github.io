@@ -20,7 +20,7 @@ An online survey was used to collect data including expectation, perceived perfo
     </div>
 </div>
 <div class="caption">
-    Video screenshots of four conditions。 
+    Video screenshots of four conditions.
 </div>
 <br />
 Using the polynomial regression and response surface methodology, results from this research highlight two major findings. First, individual characteristics, including demographic factors such as age, gender, and ethnicity, along with personality traits (e.g., extraversion, agreeableness, conscientiousness), significantly shape people's preconceived expectations of AVs. Second, expectations significantly influence the level of trust in AVs, affected by the disconfirmation effect.
