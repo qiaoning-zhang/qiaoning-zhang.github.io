@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Automation Reliability and Dual-task Performance
+title: Automation Reliability & Dual-task Performance
 description: 
 img: assets/img/trust1.png
 importance: 6
