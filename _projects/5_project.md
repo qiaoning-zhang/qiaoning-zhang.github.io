@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Personality and Human-Robot Interaction
+title: Personality & Human-Robot Interaction
 description: 
 img: assets/img/1.jpg
 importance: 5
