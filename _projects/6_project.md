@@ -31,3 +31,6 @@ To examine this research question, we designed and conducted an experiment in th
 <div class="caption">
 Signal Detection Theory (SDT) and Calculations of Hit Rate, CR Rate, Positive Predictive Value, Negative Predictive Value and Overall Success Likelihood.
 </div>
+
+#### Publication 
+- Du, N., **Zhang, Q.**, & Yang, X. J. (2018, September). Evaluating effects of automation reliability and reliability information on trust, dependence and dual-task performance. In Proceedings of the Human Factors and Ergonomics Society Annual Meeting (Vol. 62, No. 1, pp. 174-174). Sage CA: Los Angeles, CA: SAGE Publications.
