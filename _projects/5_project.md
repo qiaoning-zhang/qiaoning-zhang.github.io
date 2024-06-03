@@ -2,7 +2,7 @@
 layout: page
 title: Personality & Human-Robot Interaction
 description: 
-img: assets/img/1.jpg
+img: assets/img/per1.png
 importance: 5
 category: work
 ---
