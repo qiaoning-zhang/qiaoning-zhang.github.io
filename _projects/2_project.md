@@ -4,7 +4,7 @@ title: Human-AI Teams & Expertise
 description: 
 img: assets/img/aibot1.png
 importance: 2
-category: work
+category: Work
 giscus_comments: false
 ---
 
