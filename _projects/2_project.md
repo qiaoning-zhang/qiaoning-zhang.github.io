@@ -18,10 +18,10 @@ To explore these questions, we conducted a series of online lab studies. In the 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ai1.png" title="Tracking task" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/ai1.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-5 mt-md-0">
-        {% include figure.liquid path="assets/img/ai2.png" title="Detection task" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/ai2.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
