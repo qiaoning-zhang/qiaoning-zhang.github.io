@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /carol/
+permalink: /
 subtitle: Incoming Assistant Professor
 
 profile:
