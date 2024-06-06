@@ -4,7 +4,7 @@ title: Personality & Human-Robot Interaction
 description: 
 img: assets/img/per1.png
 importance: 5
-category: work
+category: Work
 ---
 
 Personality plays a crucial role in the quality of human-robot interactions. However, research in this area is fragmented and lacks a coherent framework, making it difficult to understand existing knowledge and identify gaps. As robots become more common in organizations and society, it is essential to understand how personality affects these interactions.
