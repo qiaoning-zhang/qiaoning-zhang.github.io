@@ -4,7 +4,7 @@ title: Explanation & Trust in Automated Vehicles
 description:
 img: assets/img/expla1.png
 importance: 3
-category: work
+category: Work
 related_publications: false
 ---
 
