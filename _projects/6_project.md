@@ -4,7 +4,7 @@ title: Automation Reliability & Dual-task Performance
 description: 
 img: assets/img/trust1.png
 importance: 6
-category: work
+category: Work
 ---
 Automated decision aids are used in various fields, such as military operations and medical diagnosis. To ensure appropriate trust and reliance on these systems, our study focuses on the following research question:
 - How do different types of likelihood information impact human operators’ trust in automation and their team performance?
