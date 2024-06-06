@@ -28,21 +28,21 @@ To explore these questions, we conducted a series of online lab studies. In the 
 The shape identification task and task interface for study 1. Participants first guessed the object's category (a), were shown the AI's guess (b), and then made their final decision. Participants then saw a feedback screen indicating the correctness of their decision, the AI's guess, as well as bonus points awarded for the task, if applicable (c and d).
 </div>
 
-In the second study, we added natural language explanations to see how different ways of phrasing (using inclusive or distancing language) affected trust, reliance, and performance. The results showed that inclusive language made people agree more with the AI, while distancing language made them agree less. This suggests that how the AI communicates can subtly guide people to rely on it appropriately based on whether its recommendations are correct or not.
+In the second study, we added natural language explanations to see how different ways of phrasing (using embracing or distancing language) affected trust, reliance, and performance. The results showed that embracing language made people agree more with the AI, while distancing language made them agree less. This suggests that the way AI communicates can subtly guide people to rely on it appropriately, based on the accuracy of its recommendations.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ai3.png" title="Tracking task" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/ai3.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-5 mt-md-0">
-        {% include figure.liquid path="assets/img/ai4.png" title="Detection task" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/ai4.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     The task interface shown to participants, including the AI's recommendation and explanation, in Study 2.
 </div>
 
-This research sheds light on how people trust and rely on AI systems with different expertise levels and how the language used in AI explanations can impact this relationship. The findings provide important insights for designing AI assistants that communicate their expertise effectively and build the right level of trust and reliance, improving human-AI collaboration and decision-making in various fields.
+This research sheds light on how people trust and rely on AI systems with different expertise levels and how the language used in AI explanations can impact this relationship. The findings provide important insights for designing AI assistants that effectively communicate their expertise, fostering the right level of trust and reliance, and enhancing human-AI collaboration and decision-making across various fields.
 
 #### Publication
 - **Zhang, Q.,** Lee, M. L., & Carter, S. (2022, April). You complete me: Human-ai teams and complementary expertise. In Proceedings of the 2022 CHI conference on human factors in computing systems (pp. 1-28).
