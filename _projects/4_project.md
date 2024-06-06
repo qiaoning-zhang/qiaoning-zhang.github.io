@@ -4,7 +4,7 @@ title: Expectation & Trust in Automated Vehicles
 description:
 img: assets/img/expectation2.png
 importance: 4
-category: work
+category: Work
 ---
 
 This research explores the factors influencing user expectations and trust in Automated Vehicles (AVs), both crucial for the acceptance and adoption of these transformative technologies. AVs have the potential to revolutionize transportation by enhancing safety, efficiency, and convenience, generating widespread interest. However, persistent apprehensions about AV safety, performance, and reliability create barriers to their widespread acceptance and utilization. This suggests a gap between the theoretical advantages of AVs and public perceptions.
