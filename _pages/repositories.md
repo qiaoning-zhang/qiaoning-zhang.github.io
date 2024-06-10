@@ -9,51 +9,49 @@ nav_order: 5
 
 ### Professional Program Service
 **Associate Chair**<br />
-2024 &nbsp;&nbsp;&nbsp;&nbsp; International ACM Conference on Automotive User Interfaces (AutomotiveUI 2024)
+2024 &nbsp;&nbsp;&nbsp;&nbsp; International ACM Conference on Automotive User Interfaces (AutomotiveUI)
 
 ***
 ### Reviewer
 **Journal Reviewer**<br />
-2024 &nbsp;&nbsp;&nbsp;&nbsp; Computers in Human Behavior
+Computers in Human Behavior
 <br />
-2024 &nbsp;&nbsp;&nbsp;&nbsp; Scientific Reports - Nature
+Scientific Reports - Nature
 <br />
-2024 &nbsp;&nbsp;&nbsp;&nbsp; International Journal of Human-Computer Interaction
+International Journal of Human-Computer Interaction
 <br />
-2024 &nbsp;&nbsp;&nbsp;&nbsp; International Journal of Social Robotics
+International Journal of Social Robotics
 <br />
-2023 &nbsp;&nbsp;&nbsp;&nbsp; International Journal of Human-Computer Interaction
+Journal of the Association for Information Systems
 <br />
-2023 &nbsp;&nbsp;&nbsp;&nbsp; Journal of the Association for Information Systems
+Applied Ergonomics
 <br />
-2023 &nbsp;&nbsp;&nbsp;&nbsp; Applied Ergonomics
+IEEE Transactions on Human-Machine Systems
 <br />
-2021 &nbsp;&nbsp;&nbsp;&nbsp; IEEE Transactions on Human-Machine Systems
+Journal of Medical Systems
 <br />
-2021 &nbsp;&nbsp;&nbsp;&nbsp; Journal of Medical Systems
-<br />
-2019-Present &nbsp;&nbsp;&nbsp;&nbsp; AIS Transactions on Human-Computer Interaction
+AIS Transactions on Human-Computer Interaction
 <br />
 
 **Conference Reviewer**<br />
 2023 &nbsp;&nbsp;&nbsp;&nbsp; The ACM Conference On Computer-Supported Cooperative Work And Social Computing
-(CSCW 2024)
+(CSCW)
 <br />
-2023 &nbsp;&nbsp;&nbsp;&nbsp; International ACM Conference on Automotive User Interfaces (AutomotiveUI 2023)
+2023 &nbsp;&nbsp;&nbsp;&nbsp; International ACM Conference on Automotive User Interfaces (AutomotiveUI)
 <br />
-2023 &nbsp;&nbsp;&nbsp;&nbsp; Conference on Human Factors in Computing Systems (CHI 2023)
+2023 &nbsp;&nbsp;&nbsp;&nbsp; Conference on Human Factors in Computing Systems (CHI)
 <br />
-2022 &nbsp;&nbsp;&nbsp;&nbsp; European Colloid & Interface Society Conference (ECIS 2022)
+2022 &nbsp;&nbsp;&nbsp;&nbsp; European Colloid & Interface Society Conference (ECIS)
 <br />
-2021 &nbsp;&nbsp;&nbsp;&nbsp; Conference on Human Factors in Computing Systems (CHI 2021)
+2021 &nbsp;&nbsp;&nbsp;&nbsp; Conference on Human Factors in Computing Systems (CHI)
 <br />
-2021 &nbsp;&nbsp;&nbsp;&nbsp; International ACM Conference on Automotive User Interfaces (AutomotiveUI 2021)
+2021 &nbsp;&nbsp;&nbsp;&nbsp; International ACM Conference on Automotive User Interfaces (AutomotiveUI)
 <br />
-2021 &nbsp;&nbsp;&nbsp;&nbsp; International Conference on Information Systems Conference (ICIS 2021)
+2021 &nbsp;&nbsp;&nbsp;&nbsp; International Conference on Information Systems Conference (ICIS)
 <br />
-2019 &nbsp;&nbsp;&nbsp;&nbsp; International ACM Conference on Automotive User Interfaces (AutomotiveUI 2019)
+2019 &nbsp;&nbsp;&nbsp;&nbsp; International ACM Conference on Automotive User Interfaces (AutomotiveUI)
 <br />
-2019 &nbsp;&nbsp;&nbsp;&nbsp; International Conference on Information Systems Conference (ICIS 2019)
+2019 &nbsp;&nbsp;&nbsp;&nbsp; International Conference on Information Systems Conference (ICIS)
 <br />
-2019 &nbsp;&nbsp;&nbsp;&nbsp; ACM/IEEE International Conference on Human Robot Interaction (HRI 2019)
+2019 &nbsp;&nbsp;&nbsp;&nbsp; ACM/IEEE International Conference on Human Robot Interaction (HRI)
 <br />
