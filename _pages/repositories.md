@@ -14,23 +14,23 @@ nav_order: 5
 ***
 ### Reviewer
 **Journal Reviewer**<br />
-Computers in Human Behavior
-<br />
-Scientific Reports - Nature
-<br />
 International Journal of Human-Computer Interaction
 <br />
 International Journal of Social Robotics
 <br />
 Journal of the Association for Information Systems
 <br />
-Applied Ergonomics
+AIS Transactions on Human-Computer Interaction
 <br />
 IEEE Transactions on Human-Machine Systems
 <br />
 Journal of Medical Systems
 <br />
-AIS Transactions on Human-Computer Interaction
+Computers in Human Behavior
+<br />
+Scientific Reports - Nature
+<br />
+Applied Ergonomics
 <br />
 
 **Conference Reviewer**<br />
