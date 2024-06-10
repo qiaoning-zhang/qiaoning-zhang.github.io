@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Personality & Human-Robot Interaction
-description: 
-img: assets/img/per1.png
+title: Project 5
+description: Personality and Human-Robot Interaction
+img: 
 importance: 5
 category: Work
 ---
