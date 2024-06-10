@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Project 2 
-description: Human-AI Teams & Complementary Expertise
-img: assets/img/aibot1.png
+description: Human-AI Teams and Complementary Expertise
+img:
 importance: 2
 category: Work
 giscus_comments: false
