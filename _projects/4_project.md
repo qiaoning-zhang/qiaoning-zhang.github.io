@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Expectation & Trust in Automated Vehicles
-description:
-img: assets/img/expectation2.png
+title: Project 4
+description: Expectation and Trust in Automated Vehicles
+img: 
 importance: 4
 category: Work
 ---
