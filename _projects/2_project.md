@@ -2,7 +2,7 @@
 layout: page
 title: Project 2 
 description: Human-AI Teams and Complementary Expertise
-img:
+img: assets/img/bot.png
 importance: 2
 category: Work
 giscus_comments: false
