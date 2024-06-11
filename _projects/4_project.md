@@ -2,7 +2,7 @@
 layout: page
 title: Project 4
 description: Expectation and Trust in Automated Vehicles
-img: 
+img: assets/img/AV2.png
 importance: 4
 category: Work
 ---
