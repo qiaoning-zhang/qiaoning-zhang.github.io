@@ -2,7 +2,7 @@
 layout: page
 title: Project 3
 description: Explanation and Trust in Automated Vehicles
-img: 
+img: assets/img/AV1.png
 importance: 3
 category: Work
 related_publications: false
