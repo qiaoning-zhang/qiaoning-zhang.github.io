@@ -2,7 +2,7 @@
 layout: page
 title: Project 6
 description: Automation Reliability and Dual-task Performance
-img: 
+img: assets/img/trust2.png
 importance: 6
 category: Work
 ---
