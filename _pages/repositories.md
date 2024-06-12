@@ -22,6 +22,8 @@ Journal of the Association for Information Systems
 <br />
 AIS Transactions on Human-Computer Interaction
 <br />
+ACM Transactions on Human-Robot Interaction
+<br />
 IEEE Transactions on Human-Machine Systems
 <br />
 Journal of Medical Systems
