@@ -2,7 +2,7 @@
 layout: page
 title: Project 5
 description: Personality and Human-Robot Interaction
-img: assets/img/per1.png
+img: assets/img/person1.png
 importance: 5
 category: Work
 ---
