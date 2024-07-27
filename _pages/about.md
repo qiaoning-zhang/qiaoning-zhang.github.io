@@ -9,6 +9,7 @@ profile:
   image: pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p><span style="font-size:0.8em;">[qiaoning@asu.edu](qiaoning@asu.edu)</span></p>
     <p><span style="font-size:0.8em;">Santa Catalina Hall</span></p>
     <p><span style="font-size:0.8em;">7271 E Sonoran Arroyo Mall</span></p>
     <p><span style="font-size:0.8em;">Mesa, AZ 85212</span></p>
