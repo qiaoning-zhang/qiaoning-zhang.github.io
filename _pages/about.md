@@ -6,7 +6,7 @@ subtitle: Incoming Assistant Professor
 
 profile:
   align: right
-  image: Qiaoning Carol Zhang.jpg
+  image: pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><span style="font-size:0.8em;">qiaoning@asu.edu</span></p>
