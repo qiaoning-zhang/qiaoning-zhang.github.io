@@ -10,7 +10,8 @@ nav_order: 5
 ### Professional Program Service
 **Associate Chair**<br />
 2024 &nbsp;&nbsp;&nbsp;&nbsp; International ACM Conference on Automotive User Interfaces (AutomotiveUI)
-
+**Program Committee**<br />
+2024 &nbsp;&nbsp;&nbsp;&nbsp; International Symposium on Trustworthy Autonomous Systems (TAS '24) 
 ***
 ### Reviewer
 **Journal Reviewer**<br />
