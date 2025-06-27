@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Qiaoning Carol Zhang/张巧宁 # the website title (if blank, full name will be used instead)
+title: Qiaoning (Carol) Zhang/张巧宁 # the website title (if blank, full name will be used instead)
 first_name: Qiaoning
-middle_name: Carol
+middle_name: (Carol)
 last_name: Zhang
 email: qiaoning@asu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
