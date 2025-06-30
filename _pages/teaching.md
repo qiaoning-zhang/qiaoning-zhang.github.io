@@ -10,7 +10,7 @@ nav_order: 3
 **Instructor** <br />
 Spring 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HSE 477: Human Systems Engineering Capstone Experience, Arizona State University<br />
 Spring 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HSE 493: Honors Thesis, Arizona State University<br />
-Fall 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HSE 521: Methods and Tools in Human Systems Engineering, Arizona State University <br />
+Fall 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HSE 521: Methods and Tools in Human Systems Engineering, Arizona State University <br />
 
 **Graduate Student Instructor** <br />
 Fall 2022 & 2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SI 582: Introduction to Interaction Design, University of Michigan<br />
