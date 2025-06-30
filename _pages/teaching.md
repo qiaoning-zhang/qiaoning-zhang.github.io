@@ -10,13 +10,13 @@ nav_order: 3
 **Instructor** <br />
 Spring 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HSE 477: Human Systems Engineering Capstone Experience, Arizona State University<br />
 Spring 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HSE 493: Honors Thesis, Arizona State University<br />
-Fall 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HSE 521: Methods and Tools in Human Systems Engineering, Arizona State University <br />
+Fall 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HSE 521: Methods and Tools in Human Systems Engineering, Arizona State University <br />
 
 **Graduate Student Instructor** <br />
 Fall 2022 & 2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SI 582: Introduction to Interaction Design, University of Michigan<br />
 Winter 2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SI 618: Data Manipulation and Analysis, University of Michigan<br />
 Winter 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SI 622: Needs Assessment and Usability Evaluation, University of Michigan<br />
-Fall 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SI 501: Contextual Inquiry and Consulting Foundations, University of Michigan<br />
+Fall 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SI 501: Contextual Inquiry and Consulting Foundations, University of Michigan<br />
 
 ***
 ### Presentations & Invited Talks
