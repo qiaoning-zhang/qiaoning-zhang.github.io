@@ -14,6 +14,8 @@ nav_order: 5
 2024 &nbsp;&nbsp;&nbsp;&nbsp; NSF OISE panel
 
 **Associate Chair**<br />
+2025 &nbsp;&nbsp;&nbsp;&nbsp; Conference on Human Factors in Computing Systems (CHI 2025)
+<br />
 2025 &nbsp;&nbsp;&nbsp;&nbsp; International ACM Conference on Automotive User Interfaces (AutomotiveUI)
 <br />
 2025 &nbsp;&nbsp;&nbsp;&nbsp; International Conference on Information Systems (ICIS)
