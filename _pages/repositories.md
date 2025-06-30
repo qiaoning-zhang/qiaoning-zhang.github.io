@@ -26,7 +26,6 @@ nav_order: 5
 2025 &nbsp;&nbsp;&nbsp;&nbsp; IEEE Workshop on Trustworthy and Privacy-Preserving Human-AI Collaboration
 <br />
 2024 &nbsp;&nbsp;&nbsp;&nbsp; International Symposium on Trustworthy Autonomous Systems (TAS '24) 
-***
 ### Reviewer
 **Journal Reviewer**<br />
 International Journal of Human-Computer Interaction
