@@ -196,6 +196,22 @@
         .lab-desc { font-size:0.92rem; color:var(--text-muted); margin-top:1rem; line-height:1.7; max-width:720px; }
         .lab-themes { display:flex; flex-wrap:wrap; gap:0.45rem; margin-top:1.2rem; }
         .lab-cta { font-size:0.9rem; color:var(--text-muted); margin-top:1.2rem; }
+
+        /* FACILITIES */
+        .sub-head { font-family:var(--font-serif); font-size:1.3rem; font-weight:500; margin:2.5rem 0 0.5rem; letter-spacing:-0.01em; color:var(--text); }
+        .facilities-grid { display:grid; grid-template-columns:repeat(auto-fit, minmax(300px, 1fr)); gap:1.5rem; }
+        .facility-card { background:var(--surface); border:1px solid var(--border); border-radius:var(--r); overflow:hidden; transition:transform 0.3s, box-shadow 0.3s; display:flex; flex-direction:column; }
+        .facility-card:hover { transform:translateY(-4px); box-shadow:0 12px 32px rgba(0,0,0,0.08); }
+        .facility-media { width:100%; aspect-ratio:4/3; background:var(--tag-bg); position:relative; overflow:hidden; }
+        .facility-media video, .facility-media img { width:100%; height:100%; object-fit:cover; display:block; }
+        .facility-media-img { background:linear-gradient(135deg, #F5F0EA 0%, #EDE5DD 100%); display:flex; align-items:center; justify-content:center; }
+        .facility-media-img img { object-fit:contain; padding:1.5rem; }
+        .facility-body { padding:1.5rem; flex:1; display:flex; flex-direction:column; }
+        .facility-body h3 { font-family:var(--font-serif); font-size:1.15rem; font-weight:600; margin-bottom:0.2rem; }
+        .facility-tagline { font-family:var(--font-serif); font-size:0.88rem; font-style:italic; color:var(--accent); margin-bottom:0.7rem; }
+        .facility-desc { font-size:0.88rem; color:var(--text-muted); line-height:1.65; flex:1; margin-bottom:1rem; }
+        .facility-tags { display:flex; flex-wrap:wrap; gap:0.35rem; }
+        .facility-tag { font-size:0.72rem; font-weight:500; color:var(--accent); background:var(--accent-wash); padding:0.25rem 0.6rem; border-radius:100px; letter-spacing:0.02em; }
     </style>
 </head>
 <body>
@@ -226,7 +242,7 @@
         <div class="hero-bio">
             <p>I am an Assistant Professor of <a href="https://poly.engineering.asu.edu/hse/">Human Systems Engineering</a> in the <a href="https://poly.engineering.asu.edu/">Polytechnic School</a>, <a href="https://engineering.asu.edu/">Ira A. Fulton Schools of Engineering</a> at <a href="https://www.asu.edu/">Arizona State University</a>. I received my Ph.D. in Information from the <a href="https://umich.edu/">University of Michigan</a> under the guidance of my incredible advisors, <a href="https://sites.google.com/umich.edu/lionelrobert/home">Dr. Lionel P. Robert Jr.</a> and <a href="https://ioe.engin.umich.edu/people/yang-xi-jessie/">Dr. X. Jessie Yang</a>.</p>
             <p>I believe the best technology doesn't just work, it <em>understands</em> us. That belief drives everything I do. My research focuses on how social contexts influence our interactions with cutting-edge technologies such as AI, healthcare robots, and automated vehicles, and I aim to create a future where technology is not just smart but also empathetic.</p>
-            <p>As intelligent systems become woven into our daily lives, people deserve technology that respects who they are, responds to how they feel, and earns their trust over time. That is why <strong>empathetic design</strong> sits at the core of my research: it is the bridge between capable machines and meaningful human experiences. This vision has led me to design socially assistive robots that care for older adults aging at home through compassionate interaction, to study how a vehicle's voice and explanations build and sustain driver trust, and to explore how humans and AI can form complementary teams grounded in mutual understanding. My work has been published at top venues including <strong>CHI</strong>, <strong>HRI</strong>, <strong>HFES</strong>, and in journals such as <strong>International Journal of Human–Computer Interaction</strong>, <strong>Journal of Patient Safety</strong>, <strong>Scientific Reports</strong>, and <strong>Transportation Research Part C</strong>, and featured by the <strong>World Economic Forum</strong>, <strong>NPR</strong>, and <strong>CNET</strong>.</p>
+            <p>As intelligent systems become woven into our daily lives, people deserve technology that respects who they are, responds to how they feel, and earns their trust over time. That is why <strong>empathetic design</strong> sits at the core of my research: it is the bridge between capable machines and meaningful human experiences. This vision has led me to design socially assistive robots that care for older adults aging at home through compassionate interaction, to study how a vehicle's voice and explanations build and sustain driver trust, and to explore how humans and AI can form complementary teams grounded in mutual understanding. My work has been published at top venues including <strong>CHI</strong>, <strong>HRI</strong>, <strong>HFES</strong>, and in journals such as <strong>IEEE Access</strong>, <strong>Scientific Reports</strong>, and <strong>Transportation Research Part C</strong>, and featured by the <strong>World Economic Forum</strong>, <strong>NPR</strong>, and <strong>CNET</strong>.</p>
         </div>
         <div class="hero-tags">
             <span class="tag">Human-AI Collaboration</span>
@@ -279,6 +295,60 @@
                     <span class="tag">Aging-in-Place</span>
                 </div>
                 <p class="lab-cta">Interested in joining the lab? <a href="#joinus">Learn about open positions</a>.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Facilities sub-section inside CARE Lab -->
+    <h3 class="sub-head">Lab Facilities</h3>
+    <p style="color:var(--text-muted);font-size:0.92rem;margin-bottom:1.5rem;max-width:720px;">Our lab is equipped with state-of-the-art research instruments for measuring social interaction, visual attention, and physiological responses in real time.</p>
+    <div class="facilities-grid">
+        <div class="facility-card">
+            <div class="facility-media">
+                <video autoplay loop muted playsinline>
+                    <source src="assets/img/furhat.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            </div>
+            <div class="facility-body">
+                <h3>Furhat Social Robot</h3>
+                <p class="facility-tagline">Expressive, human-like social robot</p>
+                <p class="facility-desc">An advanced humanoid social robot with a back-projected face capable of life-like expressions, gaze, and speech. We use Furhat to study how empathetic communication, personality, and politeness shape trust between older adults and social robots at home.</p>
+                <div class="facility-tags">
+                    <span class="facility-tag">HRI</span>
+                    <span class="facility-tag">Social Robotics</span>
+                    <span class="facility-tag">Empathetic Design</span>
+                </div>
+            </div>
+        </div>
+        <div class="facility-card">
+            <div class="facility-media facility-media-img">
+                <img src="assets/img/neon.jpg" alt="Pupil Labs Neon eye tracker">
+            </div>
+            <div class="facility-body">
+                <h3>Pupil Labs Neon</h3>
+                <p class="facility-tagline">Research-grade wearable eye tracker</p>
+                <p class="facility-desc">A lightweight, calibration-free eye tracker that looks like normal glasses. Neon captures gaze, pupil diameter, fixations, and blinks at 200 Hz, enabling us to measure visual attention in naturalistic settings like driving, human-robot interaction, and decision-making tasks.</p>
+                <div class="facility-tags">
+                    <span class="facility-tag">Gaze Tracking</span>
+                    <span class="facility-tag">Visual Attention</span>
+                    <span class="facility-tag">Pupillometry</span>
+                </div>
+            </div>
+        </div>
+        <div class="facility-card">
+            <div class="facility-media facility-media-img">
+                <img src="assets/img/shimmer.jpg" alt="Shimmer3 GSR+ biosensor">
+            </div>
+            <div class="facility-body">
+                <h3>Shimmer3 GSR+ Unit</h3>
+                <p class="facility-tagline">Wireless physiological measurement</p>
+                <p class="facility-desc">A compact wearable biosensor that measures galvanic skin response (GSR), heart rate, and motion. Shimmer3 captures moment-to-moment physiological arousal, giving us a window into how users emotionally respond to AI, robots, and automated vehicles in real time.</p>
+                <div class="facility-tags">
+                    <span class="facility-tag">GSR / EDA</span>
+                    <span class="facility-tag">Heart Rate</span>
+                    <span class="facility-tag">Arousal</span>
+                </div>
             </div>
         </div>
     </div>
@@ -391,13 +461,13 @@
     </div>
     <div class="pub-item">
         <span class="pub-badge">Conference</span>
-        <a class="pub-title" href="https://journals.sagepub.com/doi/abs/10.1177/10711813251366284" target="_blank">Understanding Explanation Content for Cognitive and Affective Trust in Automated Vehicles</a>
+        <a class="pub-title" href="https://journals.sagepub.com/doi/10.1177/10711813251364789" target="_blank">Understanding Explanation Content for Cognitive and Affective Trust in Automated Vehicles</a>
         <div class="pub-authors"><strong>Zhang, Q.</strong>, Yang, X. J., &amp; Robert, L. P., Jr.</div>
         <div class="pub-venue">Proceedings of the Human Factors and Ergonomics Society Annual Meeting (HFES 2025)</div>
     </div>
     <div class="pub-item">
         <span class="pub-badge">Conference</span>
-        <a class="pub-title" href="https://journals.sagepub.com/doi/abs/10.1177/10711813251364801" target="_blank">Understanding User Needs in Automated Vehicle Explanations: A Qualitative Approach</a>
+        <a class="pub-title" href="https://journals.sagepub.com/doi/10.1177/10711813251364796" target="_blank">Understanding User Needs in Automated Vehicle Explanations: A Qualitative Approach</a>
         <div class="pub-authors"><strong>Zhang, Q.</strong>, Yang, X. J., &amp; Robert, L. P., Jr.</div>
         <div class="pub-venue">Proceedings of the Human Factors and Ergonomics Society Annual Meeting (HFES 2025)</div>
     </div>
@@ -409,7 +479,7 @@
     </div>
     <div class="pub-item">
         <span class="pub-badge">Workshop</span>
-        <a class="pub-title" href="https://ieeexplore.ieee.org/abstract/document/11410318" target="_blank">Voice Design and Trust in Automated Vehicles: Findings and a Research Agenda</a>
+        <a class="pub-title" href="https://ieeexplore.ieee.org/document/10797451" target="_blank">Voice Design and Trust in Automated Vehicles: Findings and a Research Agenda</a>
         <div class="pub-authors">Chen, J., &amp; <strong>Zhang, Q.</strong></div>
         <div class="pub-venue">IEEE 7th International Conference on Trust, Privacy and Security (TPS-ISA 2025)</div>
     </div>
@@ -438,7 +508,7 @@
     </div>
     <div class="pub-item">
         <span class="pub-badge">Book Chapter</span>
-        <a class="pub-title" href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003490685-10/human%E2%80%93robot-interaction-connor-esterwood-qiaoning-zhang-jessie-yang-lionel-robert" target="_blank">Human-Robot Interaction</a>
+        <a class="pub-title" href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003218708-77/human-robot-interaction-connor-esterwood-qiaoning-zhang-jessie-yang-lionel-robert" target="_blank">Human-Robot Interaction</a>
         <div class="pub-authors">Esterwood, C., <strong>Zhang, Q.</strong>, Yang, X. J., &amp; Robert, L. P.</div>
         <div class="pub-venue">In C. Stephanidis &amp; G. Salvendy (Eds.), Human-Computer Interaction Handbook, CRC Press</div>
     </div>
