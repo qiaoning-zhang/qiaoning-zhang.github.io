@@ -159,9 +159,6 @@
         .cta-card a { color:var(--accent-hover); }
         .cta-btn { display:inline-flex; align-items:center; gap:0.4rem; padding:0.65rem 1.6rem; background:var(--accent); color:#fff; border-radius:100px; font-weight:500; font-size:0.9rem; transition:background 0.2s; }
         .cta-btn:hover { background:var(--accent-hover); color:#fff; }
-        .cta-note { font-size:0.84rem; color:#8A8580; margin-top:1.2rem; line-height:1.6; }
-        .cta-note a { color:var(--accent-hover); border-bottom:1px solid rgba(181,80,62,0.35); padding-bottom:1px; transition:border-color 0.2s, color 0.2s; }
-        .cta-note a:hover { color:#fff; border-bottom-color:#fff; }
 
         /* FOOTER */
         .footer { text-align:center; padding:1.5rem 2rem; font-size:0.78rem; color:var(--text-muted); border-top:1px solid var(--border); }
@@ -215,6 +212,40 @@
         .facility-desc { font-size:0.88rem; color:var(--text-muted); line-height:1.65; flex:1; margin-bottom:1rem; }
         .facility-tags { display:flex; flex-wrap:wrap; gap:0.35rem; }
         .facility-tag { font-size:0.72rem; font-weight:500; color:var(--accent); background:var(--accent-wash); padding:0.25rem 0.6rem; border-radius:100px; letter-spacing:0.02em; }
+
+        /* LAB STORY BANNER */
+        .lab-story-banner { border-radius:var(--r); overflow:hidden; margin-bottom:0.5rem; }
+        .lab-story-banner img { width:100%; display:block; border-radius:var(--r); box-shadow:0 8px 32px rgba(0,0,0,0.1); }
+
+        /* TEAM */
+        .team-grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(280px, 1fr)); gap:1.5rem; }
+        .team-card { perspective:1000px; cursor:pointer; height:460px; }
+        .team-card-inner { position:relative; width:100%; height:100%; transition:transform 0.6s ease; transform-style:preserve-3d; }
+        .team-card.flipped .team-card-inner { transform:rotateY(180deg); }
+        .team-card-front, .team-card-back { position:absolute; inset:0; backface-visibility:hidden; border-radius:var(--r); border:1px solid var(--border); background:var(--surface); display:flex; flex-direction:column; align-items:center; justify-content:center; padding:2rem 1.5rem; text-align:center; }
+        .team-card-back { transform:rotateY(180deg); padding:1.8rem 1.5rem; align-items:flex-start; justify-content:flex-start; overflow-y:auto; }
+        .team-card:hover { transform:translateY(-4px); }
+        .team-card:hover .team-card-front { box-shadow:0 12px 32px rgba(0,0,0,0.08); }
+        .team-avatar { width:130px; height:130px; border-radius:50%; overflow:hidden; margin-bottom:1.2rem; display:flex; align-items:center; justify-content:center; flex-shrink:0; }
+        .team-avatar img { width:100%; height:100%; object-fit:cover; }
+        .team-avatar-initials { font-family:var(--font-serif); font-size:2.6rem; font-weight:600; color:#fff; }
+        .team-avatar-plus { font-size:3rem; font-weight:300; color:var(--text-muted); }
+        .team-role-badge { font-size:0.72rem; font-weight:600; text-transform:uppercase; letter-spacing:0.06em; padding:0.25rem 0.8rem; border-radius:100px; margin-bottom:0.8rem; }
+        .team-role-badge.director { background:var(--accent-wash); color:var(--accent); }
+        .team-role-badge.phd { background:#E8F4F0; color:#0F8A6E; }
+        .team-card h4 { font-family:var(--font-serif); font-size:1.15rem; font-weight:500; margin-bottom:0.2rem; }
+        .team-title { font-size:0.88rem; color:var(--text-muted); }
+        .team-hint { font-size:0.78rem; color:var(--border); margin-top:1rem; font-style:italic; transition:color 0.2s; }
+        .team-card:hover .team-hint { color:var(--accent); }
+        .team-back-header { font-family:var(--font-serif); font-size:1.1rem; font-weight:500; margin-bottom:0.7rem; color:var(--accent); width:100%; text-align:left; }
+        .team-card-back p { font-size:0.86rem; color:var(--text-muted); line-height:1.6; margin-bottom:0.9rem; text-align:left; }
+        .team-interests { display:flex; flex-wrap:wrap; gap:0.35rem; margin-bottom:1rem; width:100%; justify-content:flex-start; }
+        .team-interests span { font-size:0.72rem; font-weight:500; color:var(--accent); background:var(--accent-wash); padding:0.22rem 0.6rem; border-radius:100px; }
+        .team-links { display:flex; gap:0.5rem; margin-top:auto; width:100%; justify-content:flex-start; padding-top:0.5rem; border-top:1px solid var(--border-light); }
+        .team-links a { font-size:0.82rem; font-weight:500; color:var(--accent); padding:0.35rem 0.85rem; border:1px solid var(--accent); border-radius:100px; transition:all 0.2s; }
+        .team-links a:hover { background:var(--accent); color:#fff; }
+        .team-card-join .team-card-front { border:2px dashed var(--border); background:var(--bg); }
+        .team-card-join:hover .team-card-front { border-color:var(--accent); }
     </style>
 </head>
 <body>
@@ -245,7 +276,7 @@
         <div class="hero-bio">
             <p>I am an Assistant Professor of <a href="https://poly.engineering.asu.edu/hse/">Human Systems Engineering</a> in the <a href="https://poly.engineering.asu.edu/">Polytechnic School</a>, <a href="https://engineering.asu.edu/">Ira A. Fulton Schools of Engineering</a> at <a href="https://www.asu.edu/">Arizona State University</a>. I received my Ph.D. in Information from the <a href="https://umich.edu/">University of Michigan</a> under the guidance of my incredible advisors, <a href="https://sites.google.com/umich.edu/lionelrobert/home">Dr. Lionel P. Robert Jr.</a> and <a href="https://ioe.engin.umich.edu/people/yang-xi-jessie/">Dr. X. Jessie Yang</a>.</p>
             <p>I believe the best technology doesn't just work, it <em>understands</em> us. That belief drives everything I do. My research focuses on how social contexts influence our interactions with cutting-edge technologies such as AI, healthcare robots, and automated vehicles, and I aim to create a future where technology is not just smart but also empathetic.</p>
-            <p>As intelligent systems become woven into our daily lives, people deserve technology that respects who they are, responds to how they feel, and earns their trust over time. That is why <strong>empathetic design</strong> sits at the core of my research: it is the bridge between capable machines and meaningful human experiences. This vision has led me to design socially assistive robots that care for older adults aging at home through compassionate interaction, to study how a vehicle's voice and explanations build and sustain driver trust, and to explore how humans and AI can form complementary teams grounded in mutual understanding. My work has been published at top venues including <strong>CHI</strong>, <strong>HRI</strong>, <strong>HFES</strong>, and in journals such as <strong>Journal of Patient Safety</strong>, <strong>International Journal of Human–Computer Interaction</strong>, <strong>Scientific Reports</strong>, and <strong>Transportation Research Part C</strong>, and featured by the <strong>World Economic Forum</strong>, <strong>NPR</strong>, and <strong>CNET</strong>.</p>
+            <p>As intelligent systems become woven into our daily lives, people deserve technology that respects who they are, responds to how they feel, and earns their trust over time. That is why <strong>empathetic design</strong> sits at the core of my research: it is the bridge between capable machines and meaningful human experiences. This vision has led me to design socially assistive robots that care for older adults aging at home through compassionate interaction, to study how a vehicle's voice and explanations build and sustain driver trust, and to explore how humans and AI can form complementary teams grounded in mutual understanding. My work has been published at top venues including <strong>CHI</strong>, <strong>HRI</strong>, <strong>HFES</strong>, and in journals such as <strong>IEEE Access</strong>, <strong>Scientific Reports</strong>, and <strong>Transportation Research Part C</strong>, and featured by the <strong>World Economic Forum</strong>, <strong>NPR</strong>, and <strong>CNET</strong>.</p>
         </div>
         <div class="hero-tags">
             <span class="tag">Human-AI Collaboration</span>
@@ -351,6 +382,85 @@
                     <span class="facility-tag">GSR / EDA</span>
                     <span class="facility-tag">Heart Rate</span>
                     <span class="facility-tag">Arousal</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Lab Banner -->
+    <h3 class="sub-head">Our Story</h3>
+    <div class="lab-story-banner">
+        <img src="lab-banner.png" alt="CARE Lab journey from Hunan University to University of Michigan to Arizona State University">
+    </div>
+
+    <!-- Research Team -->
+    <h3 class="sub-head">Research Team</h3>
+    <p style="color:var(--text-muted);font-size:0.92rem;margin-bottom:1.5rem;">The people behind the research. Click on a team member to learn more!</p>
+    <div class="team-grid">
+        <div class="team-card" onclick="this.classList.toggle('flipped')">
+            <div class="team-card-inner">
+                <div class="team-card-front">
+                    <div class="team-avatar" style="background:linear-gradient(135deg, var(--accent) 0%, var(--accent-hover) 100%);">
+                        <img src="https://qiaoning-zhang.github.io/assets/img/pic.jpg" alt="Dr. Qiaoning Carol Zhang">
+                    </div>
+                    <div class="team-role-badge director">Director</div>
+                    <h4>Dr. Qiaoning (Carol) Zhang</h4>
+                    <p class="team-title">Assistant Professor</p>
+                    <p class="team-hint">Click to flip!</p>
+                </div>
+                <div class="team-card-back">
+                    <div class="team-back-header">About Carol</div>
+                    <p>Carol is an Assistant Professor in Human Systems Engineering at ASU and Director of the CARE Lab. She earned her Ph.D. in Information from the University of Michigan, advised by Dr. Lionel P. Robert Jr. and Dr. X. Jessie Yang. Her research centers on empathetic design and trust dynamics in human-AI, human-robot, and human-vehicle interactions, with a focus on supporting older adults aging at home and building more humane intelligent systems. Her work has been published in top venues like CHI, HRI, and Scientific Reports, and featured by the World Economic Forum, NPR, and CNET.</p>
+                    <div class="team-interests">
+                        <span>Empathetic Design</span>
+                        <span>Trust Dynamics</span>
+                        <span>HRI</span>
+                        <span>Automated Vehicles</span>
+                        <span>Aging-in-Place</span>
+                    </div>
+                    <div class="team-links">
+                        <a href="mailto:qiaoning@asu.edu">Email</a>
+                        <a href="https://scholar.google.com/citations?user=cfuUzdQAAAAJ" target="_blank">Scholar</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="team-card" onclick="this.classList.toggle('flipped')">
+            <div class="team-card-inner">
+                <div class="team-card-front">
+                    <div class="team-avatar">
+                        <img src="johnny.png" alt="Jiongyu (Johnny) Chen">
+                    </div>
+                    <div class="team-role-badge phd">Ph.D. Student</div>
+                    <h4>Jiongyu (Johnny) Chen</h4>
+                    <p class="team-title">Ph.D. Student, HSE</p>
+                    <p class="team-hint">Click to flip!</p>
+                </div>
+                <div class="team-card-back">
+                    <div class="team-back-header">About Johnny</div>
+                    <p>First-year Ph.D. student designing and evaluating human-centered AI systems, especially conversational and robotic agents. He studies how communication strategies shape user trust, experiences, and behavioral outcomes across healthcare and everyday contexts. M.S. in Information (UX Research) from University of Michigan; B.S. in Psychological Sciences and B.A. in Sociology from Purdue.</p>
+                    <div class="team-interests">
+                        <span>Human-Centered AI</span>
+                        <span>Conversational Agents</span>
+                        <span>Trust</span>
+                        <span>UX Research</span>
+                    </div>
+                    <div class="team-links">
+                        <a href="https://johnnyjychen.github.io/jychen-website/" target="_blank">Website</a>
+                        <a href="mailto:jchen429@asu.edu">Email</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="team-card team-card-join" onclick="location.href='#joinus'">
+            <div class="team-card-inner">
+                <div class="team-card-front">
+                    <div class="team-avatar" style="background:var(--tag-bg);">
+                        <div class="team-avatar-plus">+</div>
+                    </div>
+                    <h4>You?</h4>
+                    <p class="team-title">Join Our Team!</p>
+                    <p class="team-hint" style="color:var(--accent)">Click to apply →</p>
                 </div>
             </div>
         </div>
@@ -706,8 +816,7 @@
             </div>
             <div class="cta-card">
                 <h3>Undergraduate &amp; Master's Students</h3>
-                <p class="cta-note">Before reaching out, please read <a href="read-me-before-reach-out.html">Read Me Before You Reach Out</a>.</p>
-                <p>Email me with subject "Prospective Undergraduate/Master's Student" including a brief description of your background and interests.</p>
+                <p>Email me with subject "Prospective Undergraduate/Master's Student" including your CV, transcripts, and a brief description of your background and interests.</p>
             </div>
         </div>
     </div>
