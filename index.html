@@ -99,6 +99,14 @@
         .r-card.expanded .r-card-detail { max-height:500px; opacity:1; }
         .r-card.expanded .r-card-toggle::after { content:' ▴'; }
         .r-card.expanded .r-card-toggle { }
+        .dir-intro { font-size:0.95rem; color:var(--text-muted); line-height:1.7; max-width:760px; margin-bottom:1.4rem; }
+        .dir-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:1.2rem; margin-bottom:2rem; }
+        .dir-card { background:var(--surface); border:1px solid var(--border); border-left:4px solid var(--accent); border-radius:var(--r); padding:1.3rem 1.4rem; }
+        .dir-num { font-family:var(--font-serif); font-size:0.8rem; font-weight:600; letter-spacing:0.12em; color:var(--accent); margin-bottom:0.3rem; }
+        .dir-card h4 { font-family:var(--font-serif); font-size:1.02rem; font-weight:500; line-height:1.35; margin-bottom:0.7rem; }
+        .dir-row { font-size:0.84rem; color:var(--text-muted); line-height:1.55; margin-top:0.45rem; }
+        .dir-label { display:block; font-size:0.68rem; font-weight:600; text-transform:uppercase; letter-spacing:0.08em; color:var(--text); margin-bottom:0.1rem; }
+        .r-dir { display:inline-block; font-size:0.68rem; font-weight:600; text-transform:uppercase; letter-spacing:0.07em; color:var(--accent); margin-bottom:0.35rem; }
         .r-card.expanded { transform:translateY(-3px); box-shadow:0 10px 32px rgba(0,0,0,0.05); border-color:var(--accent); }
 
         /* PUBLICATIONS */
@@ -180,6 +188,7 @@
             .nav-links.open { display:flex; flex-direction:column; position:absolute; top:100%; left:0; right:0; background:var(--bg); border-bottom:1px solid var(--border); padding:1rem 2rem; gap:0.8rem; }
             .nav-toggle { display:block; }
             .research-grid { grid-template-columns:1fr; }
+            .dir-grid { grid-template-columns:1fr; }
             .hero-text h1 { font-size:1.75rem; }
         }
 
@@ -233,8 +242,6 @@
         .team-role-badge { font-size:0.72rem; font-weight:600; text-transform:uppercase; letter-spacing:0.06em; padding:0.25rem 0.8rem; border-radius:100px; margin-bottom:0.8rem; }
         .team-role-badge.director { background:var(--accent-wash); color:var(--accent); }
         .team-role-badge.phd { background:#E8F4F0; color:#0F8A6E; }
-        .team-role-badge.ms { background:#EEF2F8; color:#3B5B8C; }
-        .team-role-badge.honors { background:#FBF3E2; color:#9A6B12; }
         .team-card h4 { font-family:var(--font-serif); font-size:1.15rem; font-weight:500; margin-bottom:0.2rem; }
         .team-title { font-size:0.88rem; color:var(--text-muted); }
         .team-hint { font-size:0.78rem; color:var(--border); margin-top:1rem; font-style:italic; transition:color 0.2s; }
@@ -279,6 +286,7 @@
             <p>I am an Assistant Professor of <a href="https://poly.engineering.asu.edu/hse/">Human Systems Engineering</a> in the <a href="https://poly.engineering.asu.edu/">Polytechnic School</a>, <a href="https://engineering.asu.edu/">Ira A. Fulton Schools of Engineering</a> at <a href="https://www.asu.edu/">Arizona State University</a>. I received my Ph.D. in Information from the <a href="https://umich.edu/">University of Michigan</a> under the guidance of my incredible advisors, <a href="https://sites.google.com/umich.edu/lionelrobert/home">Dr. Lionel P. Robert Jr.</a> and <a href="https://ioe.engin.umich.edu/people/yang-xi-jessie/">Dr. X. Jessie Yang</a>.</p>
             <p>I believe the best technology doesn't just work, it <em>understands</em> us. That belief drives everything I do. My research focuses on how social contexts influence our interactions with cutting-edge technologies such as AI, healthcare robots, and automated vehicles, and I aim to create a future where technology is not just smart but also empathetic.</p>
             <p>As intelligent systems become woven into our daily lives, people deserve technology that respects who they are, responds to how they feel, and earns their trust over time. That is why <strong>empathetic design</strong> sits at the core of my research: it is the bridge between capable machines and meaningful human experiences. This vision has led me to design socially assistive robots that care for older adults aging at home through compassionate interaction, to study how a vehicle's voice and explanations build and sustain driver trust, and to explore how humans and AI can form complementary teams grounded in mutual understanding. My work has been published at top venues including <strong>CHI</strong>, <strong>HRI</strong>, <strong>HFES</strong>, and in journals such as <strong>Journal of Patient Safety</strong>, <strong>International Journal of Human–Computer Interaction</strong>, <strong>International Journal of Social Robotics</strong>, and <strong>Scientific Reports</strong>, and featured by the <strong>World Economic Forum</strong>, <strong>NPR</strong>, and <strong>CNET</strong>.</p>
+            <p>Intelligent systems can now drive, converse, and advise, but being capable is not the same as being helpful. My research asks how intelligent technologies can become true partners in people's lives, through three connected directions: <strong>understanding human needs and individual differences</strong>, because good help starts with the person; <strong>designing responsive interaction that supports human agency</strong>, so help arrives when and how people want it; and <strong>enabling complementary human–AI collaboration</strong>, so human and AI strengths contribute to better joint outcomes. Looking ahead, I study how years of living with intelligent systems can support people's independence, learning, and meaningful participation.</p>
         </div>
         <div class="hero-tags">
             <span class="tag">Human-AI Collaboration</span>
@@ -325,6 +333,7 @@
                 <div class="lab-full">Collaborative Automation and Robotic Experiences Lab</div>
                 <div class="lab-director">Director: Dr. Qiaoning (Carol) Zhang</div>
                 <p class="lab-desc">The CARE Lab at Arizona State University investigates how people interact with intelligent systems, from socially assistive robots and automated vehicles to AI-powered tools. Our mission is to design technology that is empathetic, trustworthy, and grounded in real human needs. We combine human-centered design methods, behavioral experiments, and applied data science to create systems that genuinely care about the people they serve.</p>
+                <p class="lab-desc" style="margin-top:0.7rem;">Equipped with a Furhat social robot, wearable eye tracking, and physiological sensing, the lab is moving from scenario-based studies to repeated, live interactions in which people can clarify goals, question recommendations, and redirect or decline assistance. Beyond trust and acceptance, we evaluate whether people understand their options, can steer the system, and continue to learn&mdash;including how well they perform when the AI is absent.</p>
                 <div class="lab-themes">
                     <span class="tag">Socially Assistive Robotics</span>
                     <span class="tag">Trust in Automation</span>
@@ -393,6 +402,7 @@
 
     <!-- Research Team -->
     <h3 class="sub-head">Research Team</h3>
+    <p style="color:var(--text-muted);font-size:0.92rem;margin-bottom:0.8rem;max-width:720px;line-height:1.7;">My mentoring connects opportunities to contribute to scholarship with the development of independent judgment: students take increasing responsibility for their work, and together we create new things that matter to people.</p>
     <p style="color:var(--text-muted);font-size:0.92rem;margin-bottom:1.5rem;">The people behind the research. Click on a team member to learn more!</p>
     <div class="team-grid">
         <div class="team-card" onclick="this.classList.toggle('flipped')">
@@ -450,7 +460,7 @@
                 </div>
             </div>
         </div>
-        <!-- New team members (from CV, Fall 2026). To add a photo, replace the initials div with: <img src="filename.png" alt="Name"> -->
+        <!-- To add a photo, replace the initials div with: <img src="filename.png" alt="Name"> -->
         <div class="team-card" onclick="this.classList.toggle('flipped')">
             <div class="team-card-inner">
                 <div class="team-card-front">
@@ -465,57 +475,6 @@
                 <div class="team-card-back">
                     <div class="team-back-header">About Xiaoyu</div>
                     <p>Xiaoyu joined the CARE Lab in Fall 2026 as a Ph.D. student in Human Systems Engineering at ASU, advised by Dr. Zhang.</p>
-                </div>
-            </div>
-        </div>
-        <div class="team-card" onclick="this.classList.toggle('flipped')">
-            <div class="team-card-inner">
-                <div class="team-card-front">
-                    <div class="team-avatar" style="background:linear-gradient(135deg, #3B5B8C 0%, #6E8BB8 100%);">
-                        <div class="team-avatar-initials">PD</div>
-                    </div>
-                    <div class="team-role-badge ms">M.S. Student</div>
-                    <h4>Ping-Yu (Ugenia) Duan</h4>
-                    <p class="team-title">M.S. Thesis Student, HSE</p>
-                    <p class="team-hint">Click to flip!</p>
-                </div>
-                <div class="team-card-back">
-                    <div class="team-back-header">About Ugenia</div>
-                    <p>Ugenia is an M.S. student in Human Systems Engineering at ASU and joined the CARE Lab in Fall 2026, working on a master's thesis chaired by Dr. Zhang.</p>
-                </div>
-            </div>
-        </div>
-        <div class="team-card" onclick="this.classList.toggle('flipped')">
-            <div class="team-card-inner">
-                <div class="team-card-front">
-                    <div class="team-avatar" style="background:linear-gradient(135deg, #3B5B8C 0%, #6E8BB8 100%);">
-                        <div class="team-avatar-initials">NH</div>
-                    </div>
-                    <div class="team-role-badge ms">M.S. Student</div>
-                    <h4>Nicholas (Nick) Howard</h4>
-                    <p class="team-title">M.S. Thesis Student, HSE</p>
-                    <p class="team-hint">Click to flip!</p>
-                </div>
-                <div class="team-card-back">
-                    <div class="team-back-header">About Nick</div>
-                    <p>Nick is an M.S. student in Human Systems Engineering at ASU and has been working on his master's thesis in the CARE Lab, chaired by Dr. Zhang, since 2026.</p>
-                </div>
-            </div>
-        </div>
-        <div class="team-card" onclick="this.classList.toggle('flipped')">
-            <div class="team-card-inner">
-                <div class="team-card-front">
-                    <div class="team-avatar" style="background:linear-gradient(135deg, #9A6B12 0%, #C99A3F 100%);">
-                        <div class="team-avatar-initials">AS</div>
-                    </div>
-                    <div class="team-role-badge honors">Honors Student</div>
-                    <h4>Angela Sun</h4>
-                    <p class="team-title">Honors Thesis Student, Barrett</p>
-                    <p class="team-hint">Click to flip!</p>
-                </div>
-                <div class="team-card-back">
-                    <div class="team-back-header">About Angela</div>
-                    <p>Angela is an undergraduate at Barrett, The Honors College at ASU, and has been writing her honors thesis in the CARE Lab under Dr. Zhang's direction since 2026.</p>
                 </div>
             </div>
         </div>
@@ -538,9 +497,74 @@
 
 <section class="section reveal" id="research">
     <div class="section-head"><h2>Research</h2><span class="line"></span></div>
+    <p class="dir-intro">How can intelligent technologies become partners that support people's goals while respecting their judgment, choices, and ways of living? Across transportation, home healthcare robotics, and AI decision support, my work connects understanding the person, designing the interaction, and enabling collaboration. Three connected directions organize this research; the projects below are grouped under them.</p>
+    <div class="dir-grid">
+        <div class="dir-card">
+            <div class="dir-num">DIRECTION 01</div>
+            <h4>Understanding Human Needs &amp; Individual Differences</h4>
+            <div class="dir-row"><span class="dir-label">Foundation</span>Which differences in users' priorities, abilities, and expectations matter for design, and why.</div>
+            <div class="dir-row"><span class="dir-label">Next phase</span>How do goals and valued support evolve across life circumstances and experience with AI?</div>
+        </div>
+        <div class="dir-card">
+            <div class="dir-num">DIRECTION 02</div>
+            <h4>Designing Responsive Interaction That Supports Human Agency</h4>
+            <div class="dir-row"><span class="dir-label">Foundation</span>How explanations, politeness, empathy, and system-initiated interaction shape users' experiences and trust.</div>
+            <div class="dir-row"><span class="dir-label">Next phase</span>How can people shape and revise AI's participation while retaining choice and control?</div>
+        </div>
+        <div class="dir-card">
+            <div class="dir-num">DIRECTION 03</div>
+            <h4>Enabling Complementary Human&ndash;AI Collaboration</h4>
+            <div class="dir-row"><span class="dir-label">Foundation</span>Complementary expertise and joint performance in human&ndash;AI teams.</div>
+            <div class="dir-row"><span class="dir-label">Next phase</span>How can evolving human and AI capabilities improve joint outcomes while supporting human learning and judgment?</div>
+        </div>
+    </div>
     <div class="research-grid">
         <div class="r-card" onclick="this.classList.toggle('expanded')">
+            <div class="icon">🏥</div>
+            <div class="r-dir">Direction 01 &middot; Human Needs</div>
+            <h3>Healthcare Robot Feature Prioritization</h3>
+            <p>Applying the Kano model to identify "must-be" and "attractive" design attributes for healthcare robots, optimizing user acceptance and functional utility for older adults.</p>
+            <div class="r-card-detail">
+                <p>This project applied the Kano model framework to systematically prioritize design features for healthcare robots intended for older adults. By categorizing features into "must-be," "one-dimensional," and "attractive" attributes, this work provides actionable guidance for designers to optimize both user acceptance and functional utility.</p>
+                <div class="r-card-pubs">
+                    <strong>Key Publications:</strong><br>
+                    Zhang, Q., Zhou, F., Robert Jr, L. P., &amp; Yang, X. J. (2026). Designing Healthcare Robots for Community-Dwelling U.S. Older Adults: A Kano Model Perspective. <em>International Journal of Social Robotics</em>.<br>
+                    Zhang, Q., Zhou, F., Robert Jr, L. P., &amp; Yang, X. J. (2024). Designing Healthcare Robots at Home for Older Adults: A Kano Model Perspective. <em>HRI 2024</em>.
+                </div>
+            </div>
+            <span class="r-card-toggle">Click to learn more ▾</span>
+        </div>
+        <div class="r-card" onclick="this.classList.toggle('expanded')">
+            <div class="icon">📊</div>
+            <div class="r-dir">Direction 01 &middot; Human Needs</div>
+            <h3>Expectation and Trust in Automated Vehicles</h3>
+            <p>Studying how individual differences, personality, and prior expectations shape trust formation and long-term acceptance through large-scale representative surveys.</p>
+            <div class="r-card-detail">
+                <p>Using a large-scale survey with a representative U.S. sample, this research explores how expectations, personality traits, and individual differences shape initial trust formation and long-term acceptance of automated vehicles. This line of work provides a foundational understanding of what people want and expect from AVs before they even encounter one.</p>
+                <div class="r-card-pubs">
+                    <strong>Key Publications:</strong><br>
+                    Zhang, Q., Yang, X. J. &amp; Robert, L. P. (2022). Individual Differences and Expectations of Automated Vehicles. <em>IJHCI</em>.<br>
+                    Zhang, Q., Yang, X. J. &amp; Robert, L. P. (2020). Expectations and Trust in Automated Vehicles. <em>CHI 2020 Extended Abstracts</em>.
+                </div>
+            </div>
+            <span class="r-card-toggle">Click to learn more ▾</span>
+        </div>
+        <div class="r-card" onclick="this.classList.toggle('expanded')">
+            <div class="icon">⚕️</div>
+            <div class="r-dir">Direction 01 &middot; Human Needs</div>
+            <h3>Enhancing Patient-Physician Relationships</h3>
+            <p>Mapping patient and physician journeys (M-Well project) to design human-centered interventions that foster improved interactions and connectedness in healthcare.</p>
+            <div class="r-card-detail">
+                <p>The M-Well project at the University of Michigan mapped patient and physician journeys to identify pain points and design interventions that foster improved interactions and connectedness. This work applies human factors engineering principles to healthcare, including exploring how physicians can design their work environment for well-being, much like pilots design a cockpit.</p>
+                <div class="r-card-pubs">
+                    <strong>Key Publication:</strong> Zamudio, J., Zhang, Q., et al. (2025). "Invert the Pyramid, Let Internists Design the Job as Pilots Do a Cockpit." <em>Journal of Patient Safety</em>.
+                </div>
+            </div>
+            <span class="r-card-toggle">Click to learn more ▾</span>
+        </div>
+        <div class="r-card" onclick="this.classList.toggle('expanded')">
             <div class="icon">🤖</div>
+            <div class="r-dir">Direction 02 &middot; Responsive Interaction</div>
             <h3>Socially Assistive Robots for Aging-in-Place</h3>
             <p>Designing empathetic robots (e.g., Furhat) that support older adults at home through compassionate communication, investigating stakeholder roles and transparency features that enhance trustworthiness.</p>
             <div class="r-card-detail">
@@ -556,19 +580,8 @@
             <span class="r-card-toggle">Click to learn more ▾</span>
         </div>
         <div class="r-card" onclick="this.classList.toggle('expanded')">
-            <div class="icon">🧠</div>
-            <h3>Human-AI Teams and Complementary Expertise</h3>
-            <p>Examining how humans and AI leverage complementary strengths for better joint decision-making, moving beyond automation toward genuine collaboration.</p>
-            <div class="r-card-detail">
-                <p>Conducted at Toyota Research Institute, this research analyzes the intricate behavioral dynamics and decision-making processes within human-AI collaborative teams. The work demonstrates how humans and AI can achieve outcomes that neither could accomplish alone by leveraging their unique, complementary expertise.</p>
-                <div class="r-card-pubs">
-                    <strong>Key Publication:</strong> Zhang, Q., Lee, M.L. &amp; Carter, S. (2022). You Complete Me: Human-AI Teams and Complementary Expertise. <em>ACM CHI 2022</em>. <span style="color:var(--accent);font-size:0.82em">#1 in HCI by Google Scholar</span>
-                </div>
-            </div>
-            <span class="r-card-toggle">Click to learn more ▾</span>
-        </div>
-        <div class="r-card" onclick="this.classList.toggle('expanded')">
             <div class="icon">🚗</div>
+            <div class="r-dir">Direction 02 &middot; Responsive Interaction</div>
             <h3>Explanation and Trust in Automated Vehicles</h3>
             <p>Understanding how a vehicle's voice, explanation timing, modality, and content influence the dynamics of driver trust, workload, and acceptance across different age groups.</p>
             <div class="r-card-detail">
@@ -584,41 +597,14 @@
             <span class="r-card-toggle">Click to learn more ▾</span>
         </div>
         <div class="r-card" onclick="this.classList.toggle('expanded')">
-            <div class="icon">📊</div>
-            <h3>Expectation and Trust in Automated Vehicles</h3>
-            <p>Studying how individual differences, personality, and prior expectations shape trust formation and long-term acceptance through large-scale representative surveys.</p>
+            <div class="icon">🧠</div>
+            <div class="r-dir">Direction 03 &middot; Complementary Collaboration</div>
+            <h3>Human-AI Teams and Complementary Expertise</h3>
+            <p>Examining how humans and AI leverage complementary strengths for better joint decision-making, moving beyond automation toward genuine collaboration.</p>
             <div class="r-card-detail">
-                <p>Using a large-scale survey with a representative U.S. sample, this research explores how expectations, personality traits, and individual differences shape initial trust formation and long-term acceptance of automated vehicles. This line of work provides a foundational understanding of what people want and expect from AVs before they even encounter one.</p>
+                <p>Conducted at Toyota Research Institute, this research analyzes the intricate behavioral dynamics and decision-making processes within human-AI collaborative teams. The work demonstrates how humans and AI can achieve outcomes that neither could accomplish alone by leveraging their unique, complementary expertise.</p>
                 <div class="r-card-pubs">
-                    <strong>Key Publications:</strong><br>
-                    Zhang, Q., Yang, X. J. &amp; Robert, L. P. (2022). Individual Differences and Expectations of Automated Vehicles. <em>IJHCI</em>.<br>
-                    Zhang, Q., Yang, X. J. &amp; Robert, L. P. (2020). Expectations and Trust in Automated Vehicles. <em>CHI 2020 Extended Abstracts</em>.
-                </div>
-            </div>
-            <span class="r-card-toggle">Click to learn more ▾</span>
-        </div>
-        <div class="r-card" onclick="this.classList.toggle('expanded')">
-            <div class="icon">🏥</div>
-            <h3>Healthcare Robot Feature Prioritization</h3>
-            <p>Applying the Kano model to identify "must-be" and "attractive" design attributes for healthcare robots, optimizing user acceptance and functional utility for older adults.</p>
-            <div class="r-card-detail">
-                <p>This project applied the Kano model framework to systematically prioritize design features for healthcare robots intended for older adults. By categorizing features into "must-be," "one-dimensional," and "attractive" attributes, this work provides actionable guidance for designers to optimize both user acceptance and functional utility.</p>
-                <div class="r-card-pubs">
-                    <strong>Key Publications:</strong><br>
-                    Zhang, Q., Zhou, F., Robert Jr, L. P., &amp; Yang, X. J. (2026). Designing Healthcare Robots for Community-Dwelling U.S. Older Adults: A Kano Model Perspective. <em>International Journal of Social Robotics</em>.<br>
-                    Zhang, Q., Zhou, F., Robert Jr, L. P., &amp; Yang, X. J. (2024). Designing Healthcare Robots at Home for Older Adults: A Kano Model Perspective. <em>HRI 2024</em>.
-                </div>
-            </div>
-            <span class="r-card-toggle">Click to learn more ▾</span>
-        </div>
-        <div class="r-card" onclick="this.classList.toggle('expanded')">
-            <div class="icon">⚕️</div>
-            <h3>Enhancing Patient-Physician Relationships</h3>
-            <p>Mapping patient and physician journeys (M-Well project) to design human-centered interventions that foster improved interactions and connectedness in healthcare.</p>
-            <div class="r-card-detail">
-                <p>The M-Well project at the University of Michigan mapped patient and physician journeys to identify pain points and design interventions that foster improved interactions and connectedness. This work applies human factors engineering principles to healthcare, including exploring how physicians can design their work environment for well-being, much like pilots design a cockpit.</p>
-                <div class="r-card-pubs">
-                    <strong>Key Publication:</strong> Zamudio, J., Zhang, Q., et al. (2025). "Invert the Pyramid, Let Internists Design the Job as Pilots Do a Cockpit." <em>Journal of Patient Safety</em>.
+                    <strong>Key Publication:</strong> Zhang, Q., Lee, M.L. &amp; Carter, S. (2022). You Complete Me: Human-AI Teams and Complementary Expertise. <em>ACM CHI 2022</em>. <span style="color:var(--accent);font-size:0.82em">#1 in HCI by Google Scholar</span>
                 </div>
             </div>
             <span class="r-card-toggle">Click to learn more ▾</span>
@@ -823,6 +809,7 @@
 
 <section class="section reveal" id="teaching">
     <div class="section-head"><h2>Teaching</h2><span class="line"></span></div>
+    <p class="dir-intro">I want students to ask what is worth building, for whom, and why&mdash;and to explain the evidence behind their choices. In HSE 521 and the HSE 477 capstone, students learn to understand users before they build and to back design decisions with evidence; capstone teams define feasible UX projects, navigate human-subjects research requirements, and present their work at a public poster session. These skills matter more, not less, as AI makes building easier.</p>
     <div class="teach-block">
         <h3>Instructor, Arizona State University</h3>
         <div class="teach-row"><span class="teach-yr">Spring 2027</span><span class="teach-desc"><strong>HSE 598/494</strong> Human-Centered Design in the Age of AI <em style="font-size:0.82em;color:var(--accent)">(new course, scheduled)</em></span></div>
